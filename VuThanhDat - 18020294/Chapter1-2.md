@@ -14,4 +14,4 @@ What is the difference between software fault and software failure?
 <h3>Em hiểu như này không biết có đúng không, mong thầy chỉnh sửa ạ:</h3>
 
 * *Fault* là lỗi trong việc lập trình
-* Còn *Failure* là lỗi trong đặc tả phần mềm SRS (Software Requirement System)
+* Còn *Failure* là lỗi trong đặc tả phần mềm SRS (Software Requirement Specification)
