@@ -4,4 +4,4 @@ Tại sao ta nói "cấp độ tư duy 3 là mục đích của kiểm thử là
 
 Những rủi ro có thể có được là những khuyết điểm trong phần mềm mà lập trình viên không lườm trước được, nếu lỗi này được thực hiện, trong những tình huống nhất định hệ thống sẽ tạo ra kết quả sai, gây ra một sự thất bại
 
-Ta không theeyr giảm thiểu rủi ro xuống 0 được vì cho dù ta kiểm xoát nghiêm ngặt phần mềm, vẫn sẽ có khả năng một lỗi mới xuất hiện. Ta chỉ có thể cải thiện dự án đến một mức nhất định mà không thể phát hiên một lỗi nào nữa
+Ta không thể giảm thiểu rủi ro xuống 0 được vì cho dù ta kiểm xoát nghiêm ngặt phần mềm, vẫn sẽ có khả năng một lỗi mới xuất hiện. Ta chỉ có thể cải thiện dự án đến một mức nhất định mà không thể phát hiên một lỗi nào nữa
