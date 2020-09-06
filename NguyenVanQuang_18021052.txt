@@ -1,0 +1,33 @@
+Câu 1:
+Một số yếu tố sẽ giúp cho một tổ chức chuyển từ cấp độ kiểm thử 2 sang cấp độ 4 là :
+- Mọi thành viên cần được đào tạo bài bản về kiểm thử
+- Cần đạt được cấp độ 3, đó là kiểm thử để làm giảm rủi ro của phần mềm (Kiểm thử các yêu cầu
+phi chức năng)
+- Cần có một quy trình kiểm thử cụ thể và rõ ràng áp dụng cho toàn công ty
+Câu 2:
+Phân biệt giữa fault và failure
+a) Fault : là những lỗi tĩnh trong chương trình, có thể là do sai sót trong mã nguồn hoặc 
+mã biên dịch. Khi chạy thì có thể chương trình vẫn chạy do lỗi fault chưa được động đến
+b) Failure: Là lỗi xảy ra bên ngoài, lỗi không mong muốn, sai với mô tả.
+Trong một số trường hợp thì fault có thể kiêm luôn cả failure.
+Ví dụ về fault và failure:
+mô tả: bắn đạn choáng thì phải choáng
+ko choáng thì thành failure
+còn bắn đạn choáng mà nó bay xuyên đất xuyên tường ko nghĩ đến thì là fault
+Câu 3:
+-Rủi ro ở đây có thể là những rủi ro nhỏ, không để lại hậu quả
+Ví dụ như 
+-Rủi ro cũng có thể là những rủi ro lớn, để lại hậu quả nghiêm trọng
+Ví dụ như lộ thông tin người dùng, chức năng thanh toán sai dẫn đến thiệt hại kinh tế
+-Không thể giảm rủi ro xuống 0, vì không có gì là tuyệt đối cả. Một chu trình kiểm thử có tốt
+đến đâu nếu không có lỗi thì cũng chỉ có thể khẳng định là không phát hiện được lỗi
+chứ không thể khẳng định là hết lỗi. Tuy nhiên nó có thể làm giảm thiểu rủi ro đáng kể về các 
+lỗi nghiêm trọng có thể xảy ra.
+Câu 6:
+Em chưa từng làm việc cho công ti nào trước đây
+Chính vì vậy bản thân em tự thấy mình đang ở level 1
+Những project em từng làm cũng như bài tập lớn ở trường chỉ dừng lại ở mức chạy một số test case đơn giản,
+những trường hợp dễ xảy ra cũng như dễ thấy trước đáp án
+Còn những trường hợp phức tạp hơn thì em chưa làm được
+Nếu như output cho kết quả đúng thì dừng việc test lại
+Còn nếu như sai thì tiếp tục tìm các bug để fix 
