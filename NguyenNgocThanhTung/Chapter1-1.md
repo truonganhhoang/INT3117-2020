@@ -1,0 +1,5 @@
+Những yếu tố để giúp 1 tổ chức phát triển có thể chuyển từ testing lv.2 lên testing lv.4 là:
+- Bởi vì ở testing lv.2, tester và developer sẽ dễ bị lâm vào mối quan hệ đối đầu, còn nếu muốn lên được testing lv.4 thực sự, yếu tố đầu tiên là tester và developer phải cùng nhau ở trong 1 mối quan hệ thân thiện, trong mối quan hệ này, tester sẽ đóng vài trò là chuyên gia, là người hướng dẫn, đào tạo developer phát triển các phần mềm có chất lượng.
+- Trong testing lv.4, các kỹ sư kiểm thử sẽ trở thành những người đứng đầu của dự án về mặt technique, họ có trách nhiệm chính trong viêc xác định và phát triển chất lượng phần mềm, và chuyên môn của họ sẽ giúp ích nhiều cho developer, vì vậy yếu tố thứ 2 là tester phải có trình độ chuyên môn kỹ thuật kiểm thủ tốt.
+- Trong testing lv.4, tester ngoài chuyên môn cao, cũng phải có các kỹ năng quản lý team của mình thật tốt.
+- Mục đích của testing lv.2 là tìm ra các failure, để lên được testing lv.4 thì cần xác định việc testing chính là luôn kỷ luật tinh thần rằng testing là để tăng chất lượng sản phẩm.
