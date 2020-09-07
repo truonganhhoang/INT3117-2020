@@ -5,4 +5,5 @@ Còn người kiêm tra (Tester) thì họ luôn muốn tìm ra lỗi . Sự đ�
 - Ở  kiểm thử mức 3 , thì cả nhóm phát triển đều phải nhận ra rằng trong phần mềm luôn có rủi ro và cả nhóm phát triền đều muồn giảm bớt những rủi ro đấy . Để làm đc điều đó họ phải làm việc cùng nhau .
 Càng ngày nhiều công ty càng chuyển sang sự nhận thức này . 
 - ở mức kiểm thử 4 , lúc này thì kiểm thử đã trở thành kỉ luật trong nhận thức của cả nhóm . Kiểm thử lúc này giúp các nhà phát triển cải thiện khả năng và tạo ra các sản phầm phần mềm tốt hơn 
-=> Theo em thì nhân tố giúp một tổ chức phát triển phần mềm chuyển từ kiểm thử mức độ 2 sang mức độ 4 là thay đổi , đổi mới  nhận thức và hiểu biết về kiểm thử . 
+
+Theo em thì nhân tố giúp một tổ chức phát triển phần mềm chuyển từ kiểm thử mức độ 2 sang mức độ 4 là thay đổi , đổi mới  nhận thức và hiểu biết về kiểm thử . 
