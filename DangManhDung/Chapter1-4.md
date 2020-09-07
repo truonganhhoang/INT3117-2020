@@ -1,26 +1,18 @@
 (a) Viết một thuật toán Java với cú pháp
-public static Vector union (Vector a, Vector b)
+**public static Vector union (Vector a, Vector b)**
 Thuật toán trở về một vector mang phần tử có trong cả hai vector
 
-  public static Vector union (Vector a, Vector b){
-
-    int i=0;
-  
-    Vector c= b.clone();
-  
-    Enumeration aEnum = a.elements();
-  
-    while(aEnum.hasMoreElements()){
-  
-      if(!c.contains(aEnum.nextElement())
-    
-        c.removeAll(a.elementAt(i);
-      
-      i++;
-    
-    }
-    return c;
-  }
+        public static Vector union (Vector a, Vector b){
+          int i=0;
+          Vector c= b.clone();
+          Enumeration aEnum = a.elements();
+          while(aEnum.hasMoreElements()){
+            if(!c.contains(aEnum.nextElement())
+              c.removeAll(a.elementAt(i);
+            i++;
+          }
+          return c;
+        }
 
 (b) Phát hiện càng nhiều lỗi càng tốt
 
