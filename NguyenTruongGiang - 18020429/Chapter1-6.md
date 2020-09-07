@@ -1,0 +1,7 @@
+6 Answer question (a) or (b), but not both, depending on your background.
+(a) If you do, or have, worked for a software development company, what level of test maturity do you think the company worked at? (0: testing=debugging, 1: testing shows correctness, 2: testing shows the program doesn’t work, 3: testing reduces risk, 4: testing is a mental discipline about quality).
+(b) If you have never worked for a software development company, what level of test maturity do you think that you have? (0: testing=debugging, 1: testing shows correctness, 2: testing shows the program doesn’t work, 3: testing reduces risk, 4: testing is a mental discipline about quality).
+
+- Em nghĩ bản thân mình hiện ở Level 1.
+	- Trong quá trình học tập các môn tin học cơ sở và cấu trúc dữ liệu giải thuật, việc trước tiên khi hoàn thành bài code là thử nghiệm tính đúng đắn của nó qua các test case có trước. Hay trong các dự án làm game, mục đích chính của em vẫn sẽ là kiểm nghiệm tính đúng đăn của nó bằng việc chạy thử và xem nó đã hoạt động theo đúng ý mình chưa. Tư tưởng này khiến em bị thụ động trong việc đảm bảo chất lượng sản phẩm của mình vì không thể chắc chắn hoàn toàn tính đúng đắn của cả chương trình chỉ với một vài test case hay một vài trải nghiệm sử dụng phần mềm.
+	
