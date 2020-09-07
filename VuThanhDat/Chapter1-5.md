@@ -34,7 +34,7 @@ Below are four faulty programs. Each includes test inputs that result in failure
 Mảng chạy từ 1 tức là đã bỏ qua phần tử đầu của mảng với chỉ số index=0
 
 **(b)**
-Test case có thể by test là: x=[1, 2, 3]; y=2; Expected=1
+Test case có thể vượt qua mà không bị lỗi là: x=[1, 2, 3]; y=2; Expected=1
 > Result = 1;
 
 **(c)**
@@ -48,7 +48,7 @@ x=[2, 3, 5]; y=2; Expected=0;
 > Result = -1;
 
 **(e)**
-Test case đã cho gây lỗi bởi vì y=2, mà 2 ở mảng x có index = 0. Mà trong method findLast lại cho chạy mảng với index = 1, bỏ qua phần tử đầu nên dẫn đến việc giá trị trả về là -1 do các phần tử sau không xuất hiện giá trị 2 trong mảng.
+Test case đã cho gây lỗi bởi vì y=2, mà 2 ở mảng x có index = 0. Mà trong phương thức findLast lại cho chạy mảng với chỉ số = 1, bỏ qua phần tử đầu nên dẫn đến việc giá trị trả về là -1 do các phần tử sau không xuất hiện giá trị 2 trong mảng.
 
 **(f)**
 ```java
