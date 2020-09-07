@@ -14,11 +14,11 @@ What are some *factors* that would help development organization move from Beize
     * Kiểm thử chỉ cho thấy phần mềm có lỗi hay không chứ không đảm bảo phần mềm hết lỗi hay chưa
     * Sử dụng phần mềm là có rủi ro
         * Rủi ro nhỏ thì có thể không để lại hậu quả gì
-        * Rủi ro lớn, có thể gây hậu quả nghiêm trọng. Nhẹ thì đền bù, nặng thì ngồi tù, mà lớ ngớ thì bị đánh cho gù lưng
+        * Rủi ro lớn, có thể gây hậu quả nghiêm trọng. Nhẹ thì đền bù, nặng thì ngồi tù...
     * Tester và developer cần phải phối hợp với nhau, không được có tư tưởng việc anh anh làm, việc tôi tôi làm
 
 * Tư duy của cấp độ 4 là định nghĩa việc testing là một nguyên tắc yêu cầu để cải thiện chất lượng sản phẩm, giúp các lập trình viên lập trình tốt hơn, chất lượng hơn
     * Kiểm thử là một trong những cách tốt để gia tăng chất lượng phần mềm
     * Kỹ sư kiểm thử có thể trở thành người quản lý của dự án
     * Trách nhiệm chính là đánh giá và cải thiện chất lượng phần mềm
-    * Kinh nghiệm của họ giúp ích rất nhiều cho cả team
+    * Kinh nghiệm của họ giúp ích rất nhiều cho cả nhóm
