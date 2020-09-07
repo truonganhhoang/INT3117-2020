@@ -1,4 +1,4 @@
-(a) Viết một thuật toán Java với cú pháp
+a       Viết một thuật toán Java với cú pháp
 **public static Vector union (Vector a, Vector b)**
 Thuật toán trở về một vector mang phần tử có trong cả hai vector
 
@@ -14,7 +14,7 @@ Thuật toán trở về một vector mang phần tử có trong cả hai vector
           return c;
         }
 
-(b) Phát hiện càng nhiều lỗi càng tốt
+b       Phát hiện càng nhiều lỗi càng tốt
 
 - thuật toán sử dụng một bản sao của b và một enumrate của a nên có thể dẫn đến sai lệch
 - i có thể bị lệch trong quá trình sử dụng
