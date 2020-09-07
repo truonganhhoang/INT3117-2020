@@ -14,4 +14,4 @@ testing is a mental discipline about quality).
 Em chọn câu b . 
 
 Theo em thì em đang ở mức 3 . Tuy nhận thức ở mức 3 , nhưng kiểm thử là 1 việc rất tốn thời giam và công sức , đôi khi còn rất nhàm chán . 
-khi gặp những lỗi khó giải quyết hoặc để giải quyết nó rất tốn thời gian , buộc mình phải làm sao cho có giải quyêt nó đến mức độ nào đó tốt nhất có thể và buộc phỉa chấp nhận rủi ro . 
+khi gặp những lỗi khó giải quyết hoặc để giải quyết nó rất tốn thời gian , buộc mình phải làm sao cho có giải quyêt nó đến mức độ nào đó tốt nhất có thể và buộc phải chấp nhận rủi ro . 
