@@ -1,0 +1,1 @@
+- Em chưa làm cho công ty phát triển phần mềm, em thấy em đang ở level 1 ạ. 
