@@ -1,0 +1,4 @@
+Câu 1: Một số yếu tố sẽ giúp nhà phát triển chuyển từ cấp độ 2 của Beizer sang cấp độ 4 là :
+- Các kĩ sư phải hiểu được rằng các sản phẩm luôn luôn mang trong mình các rủi ro, và tất nhiên các bên đều muốn điều này thật hạn chế. Vì thế mà họ cần phải hiểu được mục tiêu sâu xa của việc kiểm thử là hạn chế được nhưng rủi ro cho sản phẩm, chứ không chỉ đơn giản là tìm ra lỗi, khiếm khuyết...vv
+- Các nhà phát triển phải làm việc với những người kiểm tra để đạt được hiệu quả kiểm tra cao nhất.
+- Các nhân viên cần phải có một tinh thần kỉ luật,  đạo đức tốt: luôn luôn mong muốn trong mình làm sản phẩm phần mềm có chất lượng cao hơn, từ đó không ngừng tạo động lực thúc đẩy công việc, sáng tạo trong kiểm thử và phát triển, biết đúc rút kinh nghiệm để nâng cao trình độ thêm cho bản thân về sau.
