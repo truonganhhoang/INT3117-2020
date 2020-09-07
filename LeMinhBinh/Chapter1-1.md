@@ -1,9 +1,10 @@
 # Chapter 1 - 1
 
 > What are some factors that would help a development organization move from Beizer’s testing level 2 (testing is to show errors) to testing level 4 (a mental discipline that increases quality)?
-
-"**Kiểm thử Level 2: Mục đích của kiểm thử là tìm kiếm lỗi trong phần mềm**"
-"**Kiểm thử Level 4: Kiểm thử là một tiêu chuẩn đạo đức trong phát triển phần mềm, giúp các lập trình viên lập trình tốt hơn, chất lượng hơn**"
+>
+**Kiểm thử Level 2: Mục đích của kiểm thử là tìm kiếm lỗi trong phần mềm**
+>
+**Kiểm thử Level 4: Kiểm thử là một tiêu chuẩn đạo đức trong phát triển phần mềm, giúp các lập trình viên lập trình tốt hơn, chất lượng hơn**
 
 * Chấp nhận thực tế là sẽ luôn xảy ra lỗi, dù lớn hay nhỏ, trong quá trình lập trình và sử dụng phần mềm.
 * Các tester và developer phải hướng tới mục tiêu chung là hạn chế các lỗi đó.
