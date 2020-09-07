@@ -1,0 +1,2 @@
+The risk can include cost impact, dissatisfied customer, bad user experience, and even to the extent of losing the customers. <br>
+We can't reduce the risk to zero because we don't know how software will be used by end user and external factor impact to stability in production mode.
