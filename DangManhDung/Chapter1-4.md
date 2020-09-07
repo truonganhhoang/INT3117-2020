@@ -1,5 +1,7 @@
-a.       Viết một thuật toán Java với cú pháp
+a.       Viết một thuật toán Java với cú pháp:
+
 **public static Vector union (Vector a, Vector b)**
+
 Thuật toán trở về một vector mang phần tử có trong cả hai vector
 
         public static Vector union (Vector a, Vector b){
