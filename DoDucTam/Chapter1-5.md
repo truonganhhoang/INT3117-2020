@@ -15,10 +15,10 @@ test case causes error: x = [0, 1, 2, 3, 4], y = 1 so the answer: 1
 ### Code #2:
 a)  function returned the index of last element which values 0; but the for loop just return the first index of element which values 0
 ```java
-change:
-for(int i=0; i <x.length; i++) 
-to
-for(int i =  x.length() - 1; i>=0 ; i--)
+	change:
+	for(int i=0; i <x.length; i++) 
+	to
+	for(int i =  x.length() - 1; i>=0 ; i--)
 ```
 b) The test case does not return error: `x = [0, 1, 2]` so the answer is 0 and 0 only appear 1 time
 
@@ -30,10 +30,10 @@ From test cases, after iterate to index 0 will stop so can not find out the last
 ### Code #3:
 Function count the amount of positive number but it includes 0 so the answer is false
 ```java
-change
-if(x[i] >=0) 
-to 
-if(x[i] > 0)
+	change
+	if(x[i] >=0) 
+	to 
+	if(x[i] > 0)
 ```
 b) The test case does not cause error: `x = [1,2,3]` so the answer is 3
 
