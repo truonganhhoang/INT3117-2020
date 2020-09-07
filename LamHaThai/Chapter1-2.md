@@ -1,0 +1,2 @@
+- Software Fault is a static defect in the software such as incorrect step, process or data definition
+- Software Failure is the inability of a system or component to perform required function according to its specification.

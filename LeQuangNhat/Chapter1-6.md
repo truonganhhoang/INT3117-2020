@@ -1,0 +1,4 @@
+# Chapter 1-6
+## If you have never worked for a software development company,what level of test maturity do you think that you have? (0:testing=debugging, 1: testing shows correctness, 2: testing shows the program doesn’t work, 3: testing reduces risk, 4:testing is a mental discipline about quality).
+
+Hiện tại em chưa làm việc ở một công ty nào, nhưng đã làm một vài dự án phần mềm nhỏ, bao gồm dự án trên lab và một vài dự án nhỏ em làm để cải thiện kỹ năng. Hiện tại, theo em tự đánh giá, kỹ năng kiểm thử của em đang ở bậc 0: testing là debugging. Vì trong một dự án, nếu đoạn code của em lỗi, không chạy được, hay cho ra kết quả không mong muốn thì em sẽ debug đoạn code đó trên IDE của em, và em chưa động vào hay tự tạo các test case để kiểm thử phần mềm của mình. (Em mong là sau khoá học này em có thể áp dụng các phương pháp kiểm thử vào dự án của em, để cải thiện chất lượng phần mềm)
