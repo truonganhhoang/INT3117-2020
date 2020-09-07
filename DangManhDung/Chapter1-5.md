@@ -1,5 +1,7 @@
 Cho 4 chương trình bị lỗi
 
+![Annotation 2020-09-07 110729](https://user-images.githubusercontent.com/48431650/92348022-efde4400-f0fb-11ea-9a21-f3da641a4d2b.png)
+
 a. Phát hiện lỗi của chương trình
   1. Do để i>0 nên không xét phần tử đầu. Sửa thành i>=0
   2. Do bắt đầu for với i=0 nên sẽ cho số của phần tử =0 đầu tiên chứ không phải cuối cùng. Sửa thành for (int i=x.lenght-1;i>=0;i--)
