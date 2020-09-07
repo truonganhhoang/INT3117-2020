@@ -2,25 +2,25 @@
 
 **(a) Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.**
 
-- findLast(): Vòng lặp phải bao gồm i = 0
+- ```findLast()```: Vòng lặp phải bao gồm ```i = 0```
 
 ```java
-for(int i = x.length-1; i >= 0; i--)
+for(int i = x.length - 1; i >= 0; i--)
 ```
 
-- lastZero(): Vòng lặp phải duyệt từ cuối của mảng x lên đầu
+- ```lastZero()```: Vòng lặp phải duyệt từ cuối của mảng ```x``` lên đầu
 
 ```java
-for(int i = x.length-1; i >= 0; i--)
+for(int i = x.length - 1; i >= 0; i--)
 ```
 
-- countPositive(): Điều kiện để kiểm tra số dương
+- ```countPositive()```: Điều kiện để kiểm tra số dương
 
 ```java
 if(x[i] > 0)
 ```
 
-- oddOrPos(): Điều kiện kiểm tra số lẻ hoặc dương không đúng (số âm mà lẻ % 2 được - 1).
+- ```oddOrPos()```: Điều kiện kiểm tra số lẻ hoặc dương không đúng (nêu ```x[i]``` là số âm lẻ thì ```x[i] % 2``` bằng ```-1```).
 
 ```java
 if(x[i] > 0 || x[i] % 2 === -1)
@@ -28,7 +28,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
 
 **(b) If possible, give a test case that does not execute the fault. If not, briefly explain why not.**
 
-- findLast(): bộ thử không thực hiện lỗi:
+- ```findLast()```: bộ thử không thực hiện lỗi:
 
 ```java
 //Input:
@@ -39,7 +39,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     NullPointerException
 ```
 
-- lastZero(): bộ thử không thực hiện lỗi:
+- ```lastZero()```: bộ thử không thực hiện lỗi:
 
 ```java
 //Input:
@@ -50,7 +50,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     NullPointerException
 ```
 
-- countPositive(): bộ thử không thực hiện lỗi:
+- ```countPositive()```: bộ thử không thực hiện lỗi:
 
 ```java
 //Input:
@@ -61,7 +61,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     0
 ```
 
-- oddOrPos(): bộ thử không thực hiện lỗi:
+- ```oddOrPos()```: bộ thử không thực hiện lỗi:
 
 ```java
 //Input:
@@ -74,7 +74,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
 
 **(c) If possible, give a test case that executes the fault, but does not result in an error state. If not, briefly explain why not.**
 
-- findLast():
+- ```findLast()```:
 
 ```java
 //Input:
@@ -85,7 +85,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     1
 ```
 
-- lastZero():
+- ```lastZero()```:
 
 ```java
 //Input:
@@ -96,7 +96,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     -1
 ```
 
-- countPositive():
+- ```countPositive()```:
 
 ```java
 //Input:
@@ -107,7 +107,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     3
 ```
 
-- oddOrPos():
+- ```oddOrPos()```:
 
 ```java
 //Input:
@@ -120,7 +120,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
 
 **(d) If possible give a test case that results in an error, but not a failure. If not, briefly explain why not. Hint: Don’t forget about the program counter.**
 
-- findLast():
+- ```findLast()```:
 
 ```java
 //Input:
@@ -131,7 +131,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     -1
 ```
 
-- lastZero():
+- ```lastZero()```:
 
 ```java
 //Input:
@@ -142,13 +142,13 @@ if(x[i] > 0 || x[i] % 2 === -1)
     1
 ```
 
-- countPositive(): tất cả các trường hợp dẫn đến lỗi đều là failure. Vì nếu trong x có số 0 thì tất cả các trạng thái tiếp theo đều là trạng thái lỗi.
+- ```countPositive()```: tất cả các trường hợp dẫn đến lỗi đều là failure. Vì nếu trong x có số 0 thì tất cả các trạng thái tiếp theo đều là trạng thái lỗi.
 
-- oddOrPos(): tất cả các trường hợp dẫn đến lỗi đều là failure. Vì nếu trong x có lẻ mà < 0 thì tất cả các trạng thái tiếp theo đều là trạng thái lỗi bất kể x chứa gì.
+- ```oddOrPos()```: tất cả các trường hợp dẫn đến lỗi đều là failure. Vì nếu trong x có lẻ mà < 0 thì tất cả các trạng thái tiếp theo đều là trạng thái lỗi bất kể x chứa gì.
 
 **(e) For the given test case, describe the first error state. Be sure to describe the complete state.**
 
-- findLast():
+- ```findLast()```:
 
 ```java
 //Input
@@ -163,7 +163,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     i = 0 (or i undefined)
 ```
 
-- lastZero()
+- ```lastZero()```:
 
 ```java
 //Input
@@ -177,7 +177,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     i = 0
 ```
 
-- countPositive()
+- ```countPositive()```:
 
 ```java
 //Input
@@ -192,7 +192,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
     i = 2
 ```
 
-- oddOrPos()
+- ```oddOrPos()```
 
 ```java
 //Input
@@ -209,7 +209,7 @@ if(x[i] > 0 || x[i] % 2 === -1)
 
 **(f) Implement your repair and verify that the given test now produces the expected output. Submit a screen printout or other evidence that your new program works.**
 
-- findLast():
+- ```findLast()```:
 
 ```java
 public static findLast (int[] x, int y) {
@@ -222,7 +222,7 @@ public static findLast (int[] x, int y) {
 }
 ```
 
-- lastZero():
+- ```lastZero()```:
 
 ```java
 public static int lastZero (int[] x) {
@@ -235,7 +235,7 @@ public static int lastZero (int[] x) {
 }
 ```
 
-- countPositive():
+- ```countPositive()```:
 
 ```java
 public int countPositive (int[] x) {
@@ -248,7 +248,7 @@ public int countPositive (int[] x) {
 }
 ```
 
-- oddOrPos():
+- ```oddOrPos()```:
 
 ```java
 public static int oddOrPos (int[] x) {
