@@ -1,4 +1,6 @@
-3. What do we mean by “level 3 thinking is that the purpose of testing is to reduce risk?” What risk? Can we reduce the risk to zero?
+**Question:** What do we mean by “level 3 thinking is that the purpose of testing is to reduce risk?” What risk? Can we reduce the risk to zero?
+
+**Answer:**
 
 Cấp độ 3 của kiểm thử là:
 
