@@ -2,10 +2,10 @@
 ### Code #1:
 The function return last index of element y so the iterator did not begin at the first value of the array so leading to missing case:
 ```java
-			change:
-			for(int i=x.length() - 1; i > 0; i--)
-			to 
-			for(int i=x.length() - 1; i >= 0; i--)
+	change:
+	for(int i=x.length() - 1; i > 0; i--)
+	to 
+	for(int i=x.length() - 1; i >= 0; i--)
 ```
 
 test case does not cause error: x={1, 2, 3}, y = 3 so the answer: 2
