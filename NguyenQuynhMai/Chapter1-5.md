@@ -2,22 +2,22 @@
   a. Kết quả sai do ở vòng for duyệt phần tử từ vị trí i=length – 1 đến vị trí i=1 (vì i > 0 nên chỉ duyệt đến i=1) nên kết quả ra sai.<br>
 Cách sửa: thay i>0 thành i>=0 <br>
 b. Tất cả các đầu vào đều gây ra lỗi, vì không duyệt phần tử ở vị trí 0. <br>
-c. Đầu vào : x = [2, 1, 0, 3],  y=0
-    Kết quả mong muốn: 2
-    Kết quả thực tế: 2
-d. Đầu vào : x = [1, 1, 0, 1], y=1
-    Kết quả mong muốn: 3
-    Kết quả thực tế: 3
-e. Đầu vào : x = [2, 3, 5], y=2
-   Kết quả mong muốn: 0
-   Kết quả thực tế: -1
-  Code chạy:
-  x = [2, 3, 5]
-  i=2  có x[i] = 5 (!= 2) bỏ qua, i--
-  i=1 có x[i] = 3 (!= 2) bỏ qua, i--
-  i=0 thoát vòng lặp vì chỉ lấy i>0, lấy giá trị return -1.
- => Actual ouput: -1
-f. Sửa lại:
+c. Đầu vào : x = [2, 1, 0, 3],  y=0<br>
+    Kết quả mong muốn: 2<br>
+    Kết quả thực tế: 2<br>
+d. Đầu vào : x = [1, 1, 0, 1], y=1<br>
+    Kết quả mong muốn: 3<br>
+    Kết quả thực tế: 3<br>
+e. Đầu vào : x = [2, 3, 5], y=2<br>
+   Kết quả mong muốn: 0<br>
+   Kết quả thực tế: -1<br>
+  Code chạy:<br>
+  x = [2, 3, 5]<br>
+  i=2  có x[i] = 5 (!= 2) bỏ qua, i--<br>
+  i=1 có x[i] = 3 (!= 2) bỏ qua, i--<br>
+  i=0 thoát vòng lặp vì chỉ lấy i>0, lấy giá trị return -1.<br>
+ => Actual ouput: -1<br>
+f. Sửa lại:<br>
 ```java
 public int findLast (int[] x, int y) {
         for (int i=x.length-1; i>=0; i--) 
