@@ -1,4 +1,4 @@
-+ #1
+#1
 + Các yếu tố giúp phát triển từ testing lv2 lên testing lv4 của Beizer là:
 +   Môi trường kiểm thử (test evironment)
 +   Sự thay đổi trong tư duy, nhận ra được việc kiểm thử không thể giảm rủi ro xuống không.
