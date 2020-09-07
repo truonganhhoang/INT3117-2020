@@ -6,7 +6,7 @@
 
 - Ví dụ:
 Ta có đoạn code sau
-```
+```java
 public static int numZero (int[] arr)
 { // Effects: If arr is null throw NullPointerException
 // else return the number of occurrences of 0 in arr
