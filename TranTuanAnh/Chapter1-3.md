@@ -2,7 +2,7 @@
 
 Mục đích của kiểm thử là giảm thiểu rủi ro vì kiểm thử chi có thể chỉ ra lỗi, chứ không thể khẳng định 100% rằng phần mềm hết lỗi.
 
-**Risk** (rủi ro): là các vấn đề có thể gây nguy hiểm ảnh hưởng đến các bên liên quan trong dự án.
+**Rủi ro** (risk): là các vấn đề có thể gây nguy hiểm ảnh hưởng đến các bên liên quan trong dự án.
 
 - Rủi ro có thể nhỏ, không gây hậu quả nghiêm trọng gì
 - Rủi ro có thể lớn, và gây ra các hậu quả tiêu cực không mong muốn
