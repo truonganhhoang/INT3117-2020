@@ -1,8 +1,9 @@
 - Ảnh 1: Tìm vị trí cuối cùng của phần tử
-  a) Kết quả sai do ở vòng for duyệt phần tử từ vị trí i=length – 1 đến vị trí i=1 (vì i > 0 nên chỉ duyệt đến i=1) nên kết quả ra sai.
+
+  a. Kết quả sai do ở vòng for duyệt phần tử từ vị trí i=length – 1 đến vị trí i=1 (vì i > 0 nên chỉ duyệt đến i=1) nên kết quả ra sai.
 Cách sửa: thay i>0 thành i>=0
-b) Tất cả các đầu vào đều gây ra lỗi, vì không duyệt phần tử ở vị trí 0. 
-c) Đầu vào : x = [2, 1, 0, 3],  y=0
+b. Tất cả các đầu vào đều gây ra lỗi, vì không duyệt phần tử ở vị trí 0. 
+c. Đầu vào : x = [2, 1, 0, 3],  y=0
     Kết quả mong muốn: 2
     Kết quả thực tế: 2
 d. Đầu vào : x = [1, 1, 0, 1], y=1
