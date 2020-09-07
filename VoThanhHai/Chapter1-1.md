@@ -9,5 +9,5 @@
 - Thực hiện tốt các yêu cầu mà level 4 đề ra:
    + Xem việc kiểm thử là một tiêu chuẩn đạo đức, kỷ luật trong phát triển phần mềm.
    + Kỹ sư kiểm thử có thể trở thành trưởng nhóm kỹ thuật (technical leader) của dự án, họ có trách nhiệm đánh giá và cải tiến chất lượng phần mềm.
-   + Dùng kiến thức chuyên môn của mình để giúp đỡ, đào tạo các developer để tăng chất lượng sản phẩm.
+   + Dùng kiến thức chuyên môn của mình để giúp đỡ, đào tạo các lập trình viên để tăng chất lượng sản phẩm.
     
