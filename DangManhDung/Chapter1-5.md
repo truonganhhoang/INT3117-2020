@@ -10,6 +10,6 @@ a. Phát hiện lỗi của chương trình
 
 b. Cho 1 trường hợp mà lỗi không được phát hiện
   1. Khi số cần tìm không phải là số đầu tiên VD: x=[1,2,4,8] y=2 kết quả 1
-  2. Khi chỉ có 1 phần tử là 0 VD x=[3,5,2,0,5,4] kết quả 3
-  3. Khi không có phần tử bằng 0 VD x=[4,-6,2] kết quả 2
-  4. Khi không có phần tử âm VD x=[3,-2,0,1,4] kết quả 3
+  2. Khi chỉ có 1 phần tử là 0 VD *x=[3,5,2,0,5,4]* kết quả 3
+  3. Khi không có phần tử bằng 0 VD *x=[4,-6,2]* kết quả 2
+  4. Khi không có phần tử âm  VD *x=[3,-2,0,1,4]* kết quả 3
