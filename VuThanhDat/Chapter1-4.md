@@ -43,7 +43,7 @@ opportunities for faults exist. Describe as many possible faults as you can. (No
 Answer:
 - Kiểu dữ liệu không rõ ràng, việc sử dụng vector thay vì Collection sẽ khiến mất đi tính kế thừa (Vector implement của List, List lại là implementation của Collection)
 - Việc khởi tạo một vector là tốn bộ nhớ nếu mảng đối tượng nhỏ hơn 10. Do vector khi khởi tạo nếu không chỉ định gì thì mặc định sẽ khơi tạo với dung lượng 10 phần tử. Nếu thêm phần tử mới vào (vector khởi tạo với capacity tự tạo) và vượt quá sức chứa của vector thì vector tự scale ra thêm 100% capacity đó nữa
-- Đầu bài không clear (Có check điều kiện object có cả trong a và b thì thêm cả 2 hay là một thôi - check trùng lặp)
+- Đầu bài không rõ ràng (Có kiểm tra điều kiện đối tượng có cả trong a và b thì thêm cả 2 hay là một thôi - kiểm tra trùng lặp)
 - Tên phương thức không rõ ràng
 
 **<h2>(c)</h2>**
@@ -56,7 +56,7 @@ Create a set of test cases that you think would have a reasonable chance of reve
     * Em lựa chọn test case này vì muốn biết nếu Vector b rỗng thì có bị NullPointerException không
 
 **<h2>(d)</h2>**
-Reformat code để sửa các lỗi
+Biên dịch lại code để sửa các lỗi
 
 ```java
 import java.util.Vector;
