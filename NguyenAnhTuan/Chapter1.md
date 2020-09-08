@@ -1,5 +1,5 @@
 # 1. What are some factors that would help a development organization move
-from Beizer’s testing level 2 (testing is to show errors) to testing level 4
+- From Beizer’s testing level 2 (testing is to show errors) to testing level 4
 (a mental discipline that increases quality)?
 
 - In Level 2 tetsing, the purpose is to show failures. But Level 3 tesing show 
@@ -24,7 +24,7 @@ real Level 4 testing.
 - Using the software, we are always at risk. The risk could be insignificant or could be significant.
 - We can't reduce the risk to zero.
 
-# 6.Answer question (a) or (b), but not both, depending on your background.
+# 6. Answer question (a) or (b), but not both, depending on your background.
 (b) If you have never worked for a software development company, what level of test maturity do you think that you have? (0: testing=debugging, 1: testing shows correctness,
 2: testing shows the program doesn’t work, 3: testing reduces risk, 4: testing is a mental
 discipline about quality).
