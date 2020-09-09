@@ -1,0 +1,3 @@
+# Câu 3
+- Khi sử dụng phần mềm có nghĩa là người dùng cũng nhận những rủi ro. Độ rủi ro và thiệt hại tỉ lệ thuận với nhau. Có thể ví dụ một số rủi ro: Phần mềm tính toán sai kết quả, không cảnh báo lỗi khi có lỗi hành vi (failures), cảnh báo không đúng lỗi, bảo mật có lỗ hổng bị khai thác .vv
+- Khả năng giảm rủi ro về 0 là rất hiếm đến mức không thể. Lí do vì phần mềm bản chất là phức tạp, trừu tượng. Kiểm thử chỉ là cách để chỉ ra phần mềm có lỗi chứ không chứng minh là hết lỗi. Trong khi đó lại có rất nhiều yếu tố ảnh hưởng và biến cố có thể xảy ra trong quá trình chạy thực tế khiến phần mềm chạy sai.
