@@ -1,4 +1,4 @@
-#1 How are faults and failures related to testing and debugging?
+# 1 How are faults and failures related to testing and debugging?
 
 - Lỗi phần mềm (Software Fault): là 1 lỗi 'static' trong phần mềm
 - Phần mềm gặp lỗi (Software Failture): là lỗi mà không chính xác đối với yêu cầu hoặc mô tả được đưa ra
