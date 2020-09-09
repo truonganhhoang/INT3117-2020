@@ -1,0 +1,3 @@
+# 1. What are some factors that would help a development organization move from Beizer’s testing level 2 (testing is to show errors) to testing level 4(a mental discipline that increases quality)?
+- In Level 2 tetsing, the purpose is to show failures. But Level 3 tesing show the presence, not absence or failure. If we use software, we expose some risks. The risk may be smal and unimportant, or the risk may be great and the consequences are catastrophic, but the risk is always there.
+- In level 3 testing, both testers and developers work together to reduce risk. Once the testers and developers are on the same "team", an organization can progress to real Level 4 testing.
