@@ -1,4 +1,5 @@
 # (b) If you have never worked for a software development company, which of the four test activities do you think you are bestqualified for? (test design, automation, execution, evaluation)
 
 Vì chưa làm việc cho một công ty phát triển phần mềm nào nên em chọn trả lời câu hỏi (b) ở trên:
+
 Theo em thấy bản thân mình đang phù hợp nhất cho việc thực thi các ca kiểm thử (test execution) vì công việc này vẫn còn đơn giản, phù hợp với đối tượng như sinh viên trong làm các bài tập hay các dự án nhỏ, chưa có kinh nghiệm làm thực tế. Việc này đòi hỏi em phải chạy các bộ kiểm thử với phần mềm và lưu lại kết quả, dựa vào việc ghi chép và đánh giá hơn là áp dụng các kỹ thuật phức tạp.
