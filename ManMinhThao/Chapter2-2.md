@@ -1,22 +1,22 @@
 ## Câu 2: Nếu bạn đang làm cho một công ty phát triển phần mềm, bạn hay nhóm QA đã dành bao nhiêu nỗ lực cho 4 hoạt động kiểm thử? (thiết kế kiểm thử, tự động hóa kiểm thử, thực hiện kiểm thử, đánh gia kiểm thử)
 
 - Thiết kế kiểm thử: 
- - Có phân công rõ ràng cho từng loại thiết kế (criteria-based và human-based)
- - Criteria-based test: 
-  - Các kiểm thử viên có nhiều kiến thức về kỹ thuật hơn sẽ đảm nhiệm phần này. 
-  - Họ sẽ cho ra những bộ kiểm thử, có thể áp dụng cho việc tự động hóa kiểm thử, cũng như để cho các kiểm thử viên có trình độ thấp hơn có thể sử dụng bộ kiểm thử đó để chạy kiểm thử.
- - Human-based test: 
-  - Đa số các kiểm thử viên sẽ đi theo hướng thiết kế này. Với mỗi dự án khác nhau thì người dùng sẽ có cách sử dụng khác nhau, nhưng những người dùng cùng 1 phần mềm sẽ có những hành động chung nhất định. 
-  - Thường những hành động chung này đã được các kiểm thử viên lâu năm trong công ty tạo thành các mẫu test cho phần mềm, tuy nhiên khi phần mềm được cập nhật, cùng với đối tượng sử dụng có sự thay đổi thì các bộ kiểm thử đó luôn được bổ sung và những hành động thường xuyên nhất sẽ được tự động hóa.
+  - Có phân công rõ ràng cho từng loại thiết kế (criteria-based và human-based)
+  - Criteria-based test: 
+    - Các kiểm thử viên có nhiều kiến thức về kỹ thuật hơn sẽ đảm nhiệm phần này. 
+    - Họ sẽ cho ra những bộ kiểm thử, có thể áp dụng cho việc tự động hóa kiểm thử, cũng như để cho các kiểm thử viên có trình độ thấp hơn có thể sử dụng bộ kiểm thử đó để chạy kiểm thử.
+  - Human-based test: 
+    - Đa số các kiểm thử viên sẽ đi theo hướng thiết kế này. Với mỗi dự án khác nhau thì người dùng sẽ có cách sử dụng khác nhau, nhưng những người dùng cùng 1 phần mềm sẽ có những hành động chung nhất định. 
+    - Thường những hành động chung này đã được các kiểm thử viên lâu năm trong công ty tạo thành các mẫu test cho phần mềm, tuy nhiên khi phần mềm được cập nhật, cùng với đối tượng sử dụng có sự thay đổi thì các bộ kiểm thử đó luôn được bổ sung và những hành động thường xuyên nhất sẽ được tự động hóa.
 - Tự động hóa kiểm thử:
- - Các dự án có phần mềm được rất nhiều người sử dụng đều có hoặc sẽ có 1 công cụ để chạy tự động hóa kiểm thử. 
- - Công cụ này sẽ do nhóm Nghiên cứu và Phát triển của công ty viết ra dựa trên yêu cầu của nhóm dự án.
- - Công cụ tự động hóa kiểm thử sẽ tự động chạy chương trình với các hành động sẽ tự chọn theo các bộ kiểm thử của phần mềm. Sau khi chạy xong, công cụ sẽ tự xuất ra bản báo cáo cho kiểm thử viên.
+  - Các dự án có phần mềm được rất nhiều người sử dụng đều có hoặc sẽ có 1 công cụ để chạy tự động hóa kiểm thử. 
+  - Công cụ này sẽ do nhóm Nghiên cứu và Phát triển của công ty viết ra dựa trên yêu cầu của nhóm dự án.
+  - Công cụ tự động hóa kiểm thử sẽ tự động chạy chương trình với các hành động sẽ tự chọn theo các bộ kiểm thử của phần mềm. Sau khi chạy xong, công cụ sẽ tự xuất ra bản báo cáo cho kiểm thử viên.
 - Thực hiện kiểm thử:
- - Các kiểm thử viên sẽ được phân theo từng mảng trong phần mềm để kiểm thử để tránh bị trùng lặp. 
- - Các mảng sẽ được phân theo loại thiết bị chạy (Android, IOS, Win10,..), các phần trong phần mềm như đồ họa, UI,...
- - Khi các kiểm thử viên phát hiện ra lỗi thì sẽ tạo 1 báo cáo mới về lỗi đó trên website của công ty, phân rõ tên thiết bị đã test, các bước thực hiện cùng ảnh, video hoặc log về sự kiện bị lỗi đó.
+  - Các kiểm thử viên sẽ được phân theo từng mảng trong phần mềm để kiểm thử để tránh bị trùng lặp. 
+  - Các mảng sẽ được phân theo loại thiết bị chạy (Android, IOS, Win10,..), các phần trong phần mềm như đồ họa, UI,...
+  - Khi các kiểm thử viên phát hiện ra lỗi thì sẽ tạo 1 báo cáo mới về lỗi đó trên website của công ty, phân rõ tên thiết bị đã test, các bước thực hiện cùng ảnh, video hoặc log về sự kiện bị lỗi đó.
 - Đánh giá kiểm thử:
- - Các lỗi được báo cáo trên website sẽ được phân thành 5 cấp độ ưu tiên từ 1-5: 1-lỗi cần phải sửa càng nhanh càng tốt; 5-lỗi không cần sửa gấp.
- - Ngoài 5 cấp độ ưu tiên, các lỗi còn được phân thành 6 cấp độ nghiêm trọng từ A-F: A-lỗi nghiêm trọng, khiến phần mềm bị sập; F-lỗi không nghiêm trọng, tuy nhiên nếu nó ảnh hưởng đến trải nghiệm người dùng thì có thể sẽ có ưu tiên cao.
- - Các lỗi sau khi được giao cho các lập trình viên thì họ sẽ đánh giá xem lỗi này nằm ở phần nào hoặc nghiêm trọng đến mức nào. Nếu không nghiêm trọng thì lỗi sẽ phân thành "Will not fix", còn lỗi không phải do phần mềm thì sẽ được chuyển tiếp cho bên liên quan.
+  - Các lỗi được báo cáo trên website sẽ được phân thành 5 cấp độ ưu tiên từ 1-5: 1-lỗi cần phải sửa càng nhanh càng tốt; 5-lỗi không cần sửa gấp.
+  - Ngoài 5 cấp độ ưu tiên, các lỗi còn được phân thành 6 cấp độ nghiêm trọng từ A-F: A-lỗi nghiêm trọng, khiến phần mềm bị sập; F-lỗi không nghiêm trọng, tuy nhiên nếu nó ảnh hưởng đến trải nghiệm người dùng thì có thể sẽ có ưu tiên cao.
+  - Các lỗi sau khi được giao cho các lập trình viên thì họ sẽ đánh giá xem lỗi này nằm ở phần nào hoặc nghiêm trọng đến mức nào. Nếu không nghiêm trọng thì lỗi sẽ phân thành "Will not fix", còn lỗi không phải do phần mềm thì sẽ được chuyển tiếp cho bên liên quan.
