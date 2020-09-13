@@ -1,0 +1,2 @@
+# 1. Câu hỏi: Các lỗi và hỏng hóc liên quan đến kiểm tra và gỡ lỗi như thế nào?
+Trả lời: Các lỗi chính là các sự cố trong một đoạn mã còn các hỏng hóc là những sự kiện bên ngoài mà không xảy ra chính xác. Tùy thuộc vào cấp độ của Beizer bạn đang làm việc, kiểm thử chính là quá trình cố gắng gây ra hoặc chỉ ra các lỗi mà các lỗi này chúng xảy ra trong một tốc độ được chấp nhận. Ngược lại, gỡ lỗi lãi là một quá trình chuẩn đoán trong đó, nếu có lỗi, sẽ cố gắng tìm ra những lỗi liên quan.    
