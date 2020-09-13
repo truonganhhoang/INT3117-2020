@@ -1,0 +1,3 @@
+# Câu 1: Lỗi tĩnh (fault) và lỗi hành vi (failure) liên quan gì đến kiểm thử (testing) và gỡ lỗi (debugging) ?
+- Kiểm thử là quá trình đánh giá phần mềm bằng cách quan sát quá trình thực thi các ca kiểm thử. Phần mềm có thể xuất hiện lỗi hành vi hoặc không.
+- Gỡ lỗi là quá trình tìm kiếm lỗi tĩnh nằm trong mã nguồn mà gây ra lỗi hành vi. Quá trình đó thường là một lỗi hành vi được phát hiện và người lập trình sẽ chạy từng bước của chương trình để tìm ra nguyên nhân của lỗi hành vi đó.
