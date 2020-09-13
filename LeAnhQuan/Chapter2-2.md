@@ -1,0 +1,2 @@
+Câu 2(b): 
+- Do em chưa làm ở công ty phát triển phần mềm và mới biết về kiểm thử,  em nghĩ chưa đủ khả năng để có thể thiết kế các bài kiểm tra(Tests), tự động hóa kiểm tra, đánh giá sản phẩm sau khi được kiểm tra.  
