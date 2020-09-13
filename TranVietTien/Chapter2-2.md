@@ -1,0 +1,5 @@
+Ở công ty phát triển phần mềm nơi em làm việc, đội ngũ kiểm thử/đảm bảo chất lượng (QA) sẽ:
+- Tập trung nhiều nhất vào hoạt động thiết kế (test design) nhằm đảm bảo độ chi tiết cũng như dễ hiểu, do người thực hiện kiểm thử có thể sẽ không phải là người thiết kế, hoặc khi dự án có nhân viên kiểm thử mới.
+- Công ty em không quá chú trọng việc kiểm thử tự động (automation), đa số công việc kiểm thử sẽ được thực hiện bằng tay.
+- Việc tiến hành kiểm thử (execution) sẽ được thực hiện bằng tay, nên công việc thiết kế trước đó cần có độ cho tiết tránh trường hợp bỏ sót.
+- Việc đánh giá kết quả kiểm thử (evaluation) cũng được thực hiện 1 cách trực quan, dễ hiểu trong việc chỉ ra, cũng như đánh giá mức độ ảnh hưởng (đến chất lượng sản phẩm và tiến độ dự án) để người phụ trách phát triển (developer) có thể dễ dàng biết được lỗi hiển thị bên ngoài (failure) là gì, ở đâu để từ đó có cách tìm ra lỗi tĩnh (fault) sớm nhất có thể và giải quyết nó.
