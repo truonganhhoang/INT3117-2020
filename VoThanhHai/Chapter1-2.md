@@ -7,3 +7,4 @@
 - Thất bại (failure):
    + Xuất hiện khi có sự khác biệt giữa kết quả thực tế khi thức thi chương trình so với yêu cầu đặc tả hoặc kết quả mà lập trình viên mong đợi.
    + Các lập trình viên gây ra sai (fault) trong code, tài liệu dẫn đến khi thực thi chương trình gặp thất bại (failure).
+

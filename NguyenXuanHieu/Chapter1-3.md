@@ -1,0 +1,4 @@
+# What do we mean by “level 3 thinking is that the purpose of testing is to reduce risk?” What risk? Can we reduce the risk to zero?
+
+- Ở cấp độ 3 của kiểm thử là để giảm thiểu rủi ro. Rủi ro ở đây là chính là các lỗi mà đội ngũ tester và dev ko phát hiện ra được
+- Rủi ro khi sử dụng phần mềm là luôn có, luôn luôn hiện hữu và ở kiểm thử cấp 3 này là giảm thiểu đối đa rủi ro gặp phải khi sử dụng phần mềm. Tuy nhiên cho dù có giảm như thế đi chăng nữa thì ta luôn luôn không thể giảm về tuyệt đối 0. Bởi vì luôn luôn có những lỗi mà chúng ta không thể phát hiện ra, trong quá trình chạy phần mềm ở 1 môi trường thì oke nhưng khi đổi sang môi trường khác thì bị lỗi, vân vân,....

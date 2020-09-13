@@ -1,0 +1,8 @@
+# Chapter 1-1
+## What are some factors that would help a development organization move  from  Beizer’s  testing  level  2  (testing  is  to  show  errors)  to testing level 4 (a mental discipline that increases quality)?
+
+Dựa trên thang kiểm thử của Beizer, một vài yếu tố sau đây có thể sẽ trợ giúp một tổ chức nhảy từ kiểm thử bậc 2 lên kiểm thử bậc 4:
+- Những người lập trình viên trong công ty, những người kiểm thử phải coi kiểm thử là một công việc quan trọng, không thể thiếu trong các dự án phần mềm, và coi kiểm thử là một nguyên tắc, là nhân tố cơ bản nhất để cải thiện chất lượng phần mềm. Giữa lập trình viên và kiểm thử viên phải có một mối quan hệ thân mật, gắn bó, thấu hiểu ý tưởng lẫn nhau để công việc kiểm thử diễn ra dễ dàng, phát hiện được nhiều lỗi.
+  - **Riêng về người lập trình viên:** họ phải có một mindset không coi thường việc kiểm thử, không đẩy hết công việc kiểm thử cho kiểm thử viên, phải biết áp dụng những phương pháp kiểm thử cơ bản vào dự án mà họ đang phát triển để đảm bảo chất lượng cơ bản trước khi bàn giao cho đội kiểm thử
+  - **Riêng về người kiểm thử:** họ phải là những người có kinh nghiệm, đã làm quen và thành thạo các phương pháp kiểm thử khác nhau, nắm rõ được những mặt tốt, mặt hạn chế của từng biện pháp, và nên giúp đỡ những người lập trình viên kiểm thử cơ bản chương trình của họ.
+- Ngoài ra, những người lãnh đạo công ty, những người quản lý dự án, ... phải biết điều phối, cân bằng những công việc lập trình, kiểm thử, quyết định khi nào sẽ kiểm thử đơn vị, rồi tích hợp và kiểm thử hệ thống, phải biết khi nào dự án đã được kiểm thử thấu đáo và đánh giá được chất lượng của dự án trước khi bàn giao lại cho bên đối tác.
