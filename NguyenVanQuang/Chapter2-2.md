@@ -1,0 +1,2 @@
+Câu 2 :
+Hiện tại em chưa làm việc ở 1 công ty nào cả cũng như việc em mới biết về kiểm thử một chút từ học kì trước qua 1 buổi trong môn công nghệ phần mềm, vì vậy em cho rằng bản thân chưa đủ trình độ để tự động hoá kiểm tra hay đánh giá chất lượng sản phẩm. Còn về việc thiết kế các bài test, học kì trước lớp em có được hướng dẫn sơ về kĩ thuật phân tích giá trị biên và kĩ thuật phân hoạch tương đương, tuy nhiên cũng chỉ ở mức độ giới thiệu.
