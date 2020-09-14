@@ -1,0 +1,2 @@
+Câu 3
+-	Vì tư duy của thử nghiệm cấp độ 3 là cho thấy sự hiện diện của các lỗi, quy trình sẽ khiến người thử nghiệm phải suy nghĩ về mọi khả năng có thể xảy ra. Rủi ro ở đây là sự thất bại của chương trình. Trên thực tế, bất cứ khi nào chúng ta làm hoặc sử dụng phần mềm, rủi ro luôn ở đó. Sẽ là một nhiệm vụ bất khả thi nếu loại trừ hoàn toàn những rủi ro đó. Đó là lý do kiểm thử mức độ 3 xuất hiện, nhằm giảm thiểu các lỗi hỏng hóc xuống mức thấp nhất có thể, tiết kiệm chi phí và giảm rủi ro cho phần mềm.
