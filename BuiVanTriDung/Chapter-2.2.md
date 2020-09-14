@@ -8,5 +8,4 @@ execution, evaluation)
 which of the four test activities do you think you are best
 qualified for? (test design, automation, execution, evaluation)
 
-
-* Hiện tại , em chưa có kinh nghiệm làm việc cho công ty phát triển phần mềm nào . Theo em nghĩ , em sẽ làm tốt ở công đoạn thực hiện kiểm thử .
+Em chưa từng làm việc tại công ty thiết kế phần mềm. Em nghĩ em sẽ làm tốt ở phần thực hiện kiểm thử.
