@@ -1,5 +1,6 @@
-2. What is the difference between software fault and software failure? 
-	
+**Question:** What is the difference between software fault and software failure? 
+
+**Answer:**
 * Khái niệm :
     * Software Fault là những lỗi, những khiếm khuyết "tĩnh" tồn tại trong phần mềm
 	* Software Failure là những hành vi bên ngoài, không chính xác với đặc tả hoặc những mô tả của hành vi được mong đợi.

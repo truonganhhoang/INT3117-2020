@@ -1,5 +1,6 @@
-1. What are some factors that would help a development organization move from Beizer’s testing level 2 (testing is to show errors) to testing level 4 (a mental discipline that increases quality)? 
+**Question:** What are some factors that would help a development organization move from Beizer’s testing level 2 (testing is to show errors) to testing level 4 (a mental discipline that increases quality)? 
 
+**Answer:**
 * Ở level 2, mục đích của testing là chỉ ra được failures.
     * Dù testers rất thích thú khi tìm ra được failures trong sản phẩm nhưng developers không muốn như vậy (tâm lý chung) -> tạo mối quan hệ thù địch giữa developer và tester
     * Khi tester và developer không giữ được mối quan hệ tốt đẹp sẽ làm ảnh hưởng đến năng suất làm việc của cả nhóm.
