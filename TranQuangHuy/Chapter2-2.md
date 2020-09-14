@@ -1,0 +1,2 @@
+# 2. b. 
+em nghĩ em sẽ làm tốt ở khâu evaluation, vì e nghĩ khi mình không có chuyên môn, mình khó có thể thực hiện các khâu khác 1 cách hoàn chỉnh, nhưng khâu evalution có thể cho mình cái nhìn tổng quan hơn, và mình có thể trải nghiệm được xem đã tốt hay chưa tốt ở điểm nào.

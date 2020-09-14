@@ -1,0 +1,3 @@
+# 1. Faults và Failures liên quan đến kiểm thử và sửa lỗi:
+- Faults là các vấn đề trong source code, failures là những sự cố bên ngoài không chính xác. Tùy thuộc vào mức độ của Beizer đang thực hiện, kiểm thử là 1 quá trình cố gắng tìm ra failures hoặc cho thấy rằng chúng xảy ra với tốc độ có thể chấp nhận được.
+- Ngược lại, gỡ lỗi là 1 quy trình chuẩn đoán mà trong đó đưa ra 1 failure, 1 nỗ lực được thực hiện để tìm ra fault liên quan.

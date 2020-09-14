@@ -1,4 +1,6 @@
+# 4.
 a) 
+``` java
 public static Vector union (Vector a, Vector b)
 {
 	Vector res = new Vector (a); // lấy tất cả các phần từ của vector a
@@ -13,20 +15,24 @@ public static Vector union (Vector a, Vector b)
 	}
 	return result;
 }
+```
 
 b) 
+```
 - Điều gì xảy ra nếu
 ?	input Vector là null?
 ?	input Vector bị trùng lặp?
 ?	input Vector chứa các null entries?
 ?	các input được sửa đổi?
 ? 	giá trị trả về luôn là 1 new Set hoặc có thể là a hoặc b?
+```
 - Lựa chọn kiểu đối số và trả về dạng Vector, best practice là sử dụng loại ít cụ thể nhất phù hợp với mục tiêu đề ra.
 - Đặc biết nếu Vector được thay thế bằng List sẽ giải quyết 1 số vấn đề nhưng không phải tất cả. Thay thế bằng Set sẽ là 1 ý tưởng tốt hơn.
 
 c) Sẽ không gặp khó khăn khi tạo ra các tests bổ sung. Lưu ý: Các giải pháp khác để giải quyết ambiguities chắc chắn là có thể. Ví dụ, specifier có thể quyết định xử lý các input null. Hoặc, specifier có thể chặn các input null với 1 điều kiện tiên quyết.
 
 d)
+``` java
 public static Set union (Set a, Set b)
 // EFFECTS: if (a || b) = null => throw NullPointerException
 // else return a new Set that is the set union of a, b
@@ -35,4 +41,5 @@ public static Set union (Set a, Set b)
 // e.g. union ({1,2},{cat,hat}) is {1,2,cat,hat}
 // e.g. union ({null},{cat,hat}) is {null,cat,hat}
 // e.g. union (a,a) is Set t st that t!=a, but t.equals(a)
+```
 
