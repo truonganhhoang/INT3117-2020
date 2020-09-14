@@ -1,0 +1,4 @@
+# 3. Cho biết ý nghĩa của câu "suy nghĩ của kiểm thử mức độ 3 là kiểm thử để giảm rủi ro". Rủi ro đó là gì? Chúng ta có thể giảm rủi ro xuống 0 được không?
+- Trong quá trình phát triển phần mềm sẽ có các rủi ro. Chúng ta thực hiện kiểm thử để có thể tìm ra các rủi ro đó và cố gắng giảm thiểu chúng.
+- Các rủi ro có thể là rủi ro về sản phẩm không đúng như yêu cầu đặc tả, không đáp ứng đủ yêu cầu người dùng, chất lượng chưa thực sự tốt ,... Rủi ro cũng có thể là rủi ro về dự án như là delay trong bàn giao dự án, không đủ nhân sự hay không ước tính chính xác các yếu tố về phạm vi, chi phí và thời gian,...
+- Chúng ta không thể giảm rủi ro xuống còn 0 được. Sẽ luôn có những rủi ro hiện hữu dù lớn hay nhỏ, ít hay nhiều.
