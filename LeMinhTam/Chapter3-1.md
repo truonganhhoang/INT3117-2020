@@ -1,5 +1,5 @@
 ### 3.1 Tại sao cần kiểm thử viên cần kiểm thử tự động? Đâu là nhược điểm của tự động hóa?
-#
+
 #### 3.1.1 Kiểm thử viên cần kiểm thử tự động vì:
 - Kiểm thử tự động **giảm chi phí cài đặt ban đầu**.
 - Kiểm thử tự động **tăng tính đồng bộ** của chương trình (giảm sự bất đồng bộ về nhân lực).
