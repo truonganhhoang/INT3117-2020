@@ -35,7 +35,8 @@ c) Test ảnh hưởng đến trạng thái nhưng không lan rộng
     }
 ```
 d) Test không hiển thị lỗi dù lan rộng
-- Không có Test nào khả thi vì lỗi bắt đầu từ số 19
+- Không có Test nào khả thi vì lỗi bắt đầu từ số 19.
+
 e) Test hiển thị lỗi
 ```
  @Test
