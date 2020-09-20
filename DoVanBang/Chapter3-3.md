@@ -2,7 +2,6 @@
 
 #### 3
 `
-
 public class BoundedQueueTest {
     @Test
     public void testEnQueue() {
