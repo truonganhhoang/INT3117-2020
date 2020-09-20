@@ -59,6 +59,6 @@ public void test6()
     }
 ```
 **Chạy kiểm thử tự động bằng JUnit cho kết quả:**
-![TestResult](https://imgur.com/a/n135i0N)
+![TestResult](./images/Chapter3-3_Image1.png)
 
 
