@@ -6,15 +6,6 @@ import java.util.*;
 
 public class Min
 {
-    /**
-     * Returns the mininum element in a list
-     * @param list Comparable list of elements to search
-     * @return the minimum element in the list
-     * @throws NullPointerException if list is null or
-     *         if any list elements are null
-     * @throws ClassCastException if list elements are not mutually comparable
-     * @throws IllegalArgumentException if list is empty
-     */
     public static <T extends Comparable<? super T>> T min (List<? extends T> list)
     {
         if (list.size() == 0)
