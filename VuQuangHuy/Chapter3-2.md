@@ -1,2 +1,0 @@
-#Câu 2: Các cấp kế thừa ảnh hưởng thế nào đến khả năng kiểm soát và quan sát?<br/>
-Trả lời: Việc xây dựng một cây kế thừa sâu có thể khiến mọi việc trở nên phức tạp khi kiểm thử vì các lớp con phụ thuộc vào lớp cha. Nếu ta tùy chỉnh hoặc nâng cấp ở lớp trên thì nó sẽ ảnh hưởng các lớp con, nghĩa là tất cả các ca kiểm thử bị ảnh hưởng bởi lớp thay đổi đều phải được cập nhật. Điều này khiến việc kiểm soát khó hơn vì phải kiểm soát tất cả các lớp cha và các lớp con của nó. Mặt khác ta phải quan sát hoạt động của nhiều lớp con mà đang hoạt động giống lớp cha. 
