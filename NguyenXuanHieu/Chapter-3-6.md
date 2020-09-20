@@ -13,9 +13,9 @@ Với đầu vào là 0 thì vòng while chưa bao giờ được chạy --> Qua
 ```
 @Test
     public void testComputerPrimeA() {
-        PrimeNumbers instance = new PrimeNumbers();
-        instance.computePrimes(0);
-        assertEquals('[]' , instance.toString());
+        PrimeNumbers  = new PrimeNumbers();
+        .computePrimes(0);
+        assertEquals('[]' , .toString());
     }
 ```
 ### b, A test that reaches the fault, but does not infect
@@ -24,9 +24,9 @@ Với đầu vào là 5 số thì vòng lặp while (while loop) bị lỗi đã
 
 @Test
   public void testComputePrimesB() {
-    PrimeNumbers instance = new PrimeNumbers();
-    instance.computePrimes(5);
-    assertEquals("[5, 7, 11, 13, 15]", instance.toString());
+    PrimeNumbers  = new PrimeNumbers();
+    .computePrimes(5);
+    assertEquals("[5, 7, 11, 13, 15]", .toString());
   }
 ```
 ### c, A test that infects the state, but does not propagate
@@ -34,9 +34,9 @@ Kết quả lỗi --> Failed
 ```
 @Test
   public void testComputePrimesC() {
-    PrimeNumbers instance = new PrimeNumbers();
-    instance.computePrimes(10);
-    assertEquals("[2, 3, 5, 7, 11, 13, 17, 19, 21, 23]", instance.toString());
+    PrimeNumbers  = new PrimeNumbers();
+    .computePrimes(10);
+    assertEquals("[2, 3, 5, 7, 11, 13, 17, 19, 21, 23]", .toString());
   }
 ```
 ### d, A test that propagates, but does not reveal
