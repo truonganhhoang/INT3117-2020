@@ -1,7 +1,7 @@
 # Delete the explicit throw of NullPointerException in the Min program. Verify that the JUnit test for a list with a single null element now fails.
 
 - Xoá dòng:<br/>
-```if (result == null) ném mới NullPointerException ("Min.min");```
+```if (result == null) throw new NullPointerException ("Min.min");```
 
 - Xác nhận lại bằng JUnit
 ```java
