@@ -1,0 +1,2 @@
+### Exercise 2:
+ - Việc kế thừa có thể khiến việc theo dõi đầu vào và đầu ra trở nên khó khăn, vì cần phải theo dõi nhiều định nghĩa lớp để có thể có được cái nhìn tổng thể về những gì đang diễn ra khi các ca kiểm thử đang chạy. Điều này ảnh hưởng tới khả năng kiểm soát vì và nếu ta có một cây kế thừa sâu, nó sẽ rất phức tạp. Khả năng quan sát cũng bị hạn chế theo cách tương tự.
