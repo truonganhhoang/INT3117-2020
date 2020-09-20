@@ -13,9 +13,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class BoundedQueueTest {
-    /**
-     * Test of enQueue method, of class BoundedQueue.
-     */
+    
     private BoundedQueue queue;
 
     @BeforeEach
@@ -23,17 +21,10 @@ public class BoundedQueueTest {
         this.queue = new BoundedQueue(4);
     }
 ```
-- Hàm kiểm thử cho ```isEmpty()```
-```
-    @Test
-    public void testEmptyQueue() {
-        Assertions.assertTrue(this.queue.isEmpty());
-    }
-```
 - Hàm kiểm thử cho ```enQueue (Object o)```
 ```
     @Test
-    public void testEnqueue() {
+    public void enQueue() {
         int number = 0;
         this.queue.enQueue(number);
         Assertions.assertFalse(queue.isEmpty());
@@ -43,16 +34,25 @@ public class BoundedQueueTest {
 
 ```
     @Test
-    public void testDequeue() {
+    public void deQueue() {
         int number = 0;
         this.queue.enQueue(number);
         Assertions.assertEquals(number, this.queue.deQueue());
     }
 ```
+
+- Hàm kiểm thử cho ```isEmpty()```
+```
+    @Test
+    public void isEmpty() {
+        Assertions.assertTrue(this.queue.isEmpty());
+    }
+```
+
 - Hàm kiểm thử cho ```isFull()```
 ```
     @Test
-    public void testFullQueue() {
+    public void isFull() {
         int number_0 = 0, number_1 = 1, number_2 = 2, number_3 = 3;
 
         this.queue.enQueue(number_0);
@@ -67,10 +67,10 @@ public class BoundedQueueTest {
         Assertions.assertTrue(this.queue.isFull());
     }
 ```
-- Hàm kiểm thử cho ```isFull()```
+- Hàm kiểm thử cho ```toString()```
 ```
     @Test
-    public void toString() {
+    public void testToString() {
         int number_0 = 0, number_1 = 1, number_2 = 2, number_3 = 3;
 
         this.queue.enQueue(number_0);
