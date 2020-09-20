@@ -53,5 +53,5 @@ public class MinTest {
     }
 }
 ```
-**Chạy kiểm thử tự động ``Min.java`` và đã không qua được cả kiểm thử:**
+**Chạy kiểm thử tự động ``Min.java`` và đã không qua được ca kiểm thử:**
 ![TestResult](./images/Chapter3-4_Image2.png)
