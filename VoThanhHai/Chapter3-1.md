@@ -1,4 +1,4 @@
-# Why do testers automate tests? What are the limitations of automation?
+### Why do testers automate tests? What are the limitations of automation?
 
 - Các kiểm thử viên hiện nay hướng tới việc kiểm thử tự động vì:
      + Tiết kiệm chi phí: Nếu áp dụng đúng, kiểm thử tự động có thể giúp tiết kiệm chi phí về nhân lực do việc kiểm thử được thực hiện quá phụ thuộc vào con người như bên kiểm thử thủ công.
