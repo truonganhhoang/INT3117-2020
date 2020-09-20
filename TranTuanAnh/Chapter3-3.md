@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
 
 ```java
 public class BoundedQueueTest {
-    private BoundedQueue queue;
+  private BoundedQueue queue;
     // Các thiết lập, hàm kiểm thử sẽ nằm trong này
 }
 ```
@@ -22,7 +22,7 @@ public class BoundedQueueTest {
 ```java
 @BeforeEach
 public void setUp() {
-		this.queue = new BoundedQueue(5);
+  this.queue = new BoundedQueue(5);
 }
 ```
 
@@ -31,7 +31,7 @@ public void setUp() {
 ```java
 @Test
 public void testEmptyQueue() {
-		Assertions.assertTrue(this.queue.isEmpty());
+    Assertions.assertTrue(this.queue.isEmpty());
     Object o = 1;
     this.queue.enQueue(o);
     Assertions.assertFalse(this,queue.isEmpty());
@@ -50,7 +50,7 @@ public void testEnQueue() {
     Assertions.assertEquals(this.queue.toString(), "[1]");
     this.queue.enQueue(o2);
     Assertions.assertEquals(this.queue.toString(), "[1, 2]");
-  }
+}
 ```
 
 - Kiểm thử cho phương thức `deQueue()`
@@ -65,7 +65,7 @@ public void testDeQueue() {
     this.queue.deQueue();
 
     Assertions.assertEquals(this.queue.toString(), "[2]");
-  }
+}
 ```
 
 - Kiểm thử cho phương thức `isFull()`
@@ -98,5 +98,5 @@ public void testToString() {
     this.queue.enQueue(o3);
 
     Assertions.assertEquals(this.queue.toString(), "[2, 4, 1]");
-    }
+}
 ```
