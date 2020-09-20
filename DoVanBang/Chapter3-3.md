@@ -1,7 +1,7 @@
 # Chapter 3
 
 #### 3
-`
+
 public class BoundedQueueTest {
     @Test
     public void testEnQueue() {
@@ -55,4 +55,4 @@ public class BoundedQueueTest {
         assertEquals(instance.toString(), "[2, 4, 1]");
     }
 }
-`
+
