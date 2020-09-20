@@ -1,7 +1,7 @@
 # Chapter 3
 
 #### 4
-`
+```
 public class MinTest {
     @Test(expected = NullPointerException.class)
     public void testMin() {
@@ -11,4 +11,4 @@ public class MinTest {
         Object result = Min.min(list);
     }
 }
-`
+```
