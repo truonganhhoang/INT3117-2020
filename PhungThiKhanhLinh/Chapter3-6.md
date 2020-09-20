@@ -1,6 +1,6 @@
-## Exercise 6:
-#### a.	Một bài kiểm thử không đạt lỗi:
-```
+#### Exercise 6:
+__a.    Một bài kiểm thử không đạt lỗi:__
+```java
 @Test
  void testComputePrimesA() {
      PrimeNumbers primeNumbers = new PrimeNumbers();
@@ -10,8 +10,8 @@
      // it never enters the while loop
  }
  ```
-#### b.	Một bài kiểm thử đạt lỗi nhưng không lây nhiễm
-```
+__b.    Một bài kiểm thử đạt lỗi nhưng không lây nhiễm:__
+```java
 @Test
  void testComputePrimesB() {
      PrimeNumbers primeNumbers = new PrimeNumbers();
@@ -21,8 +21,8 @@
           primeNumbers.toString());
  } 
  ```
-#### c.	Một kiểm thử lây nhiễm trạng thái, nhưng không lan truyền
-```
+__c.    Một kiểm thử lây nhiễm trạng thái, nhưng không lan truyền:__
+```java
 @Test
  void testComputePrimesC() {
      PrimeNumbers primeNumbers = new PrimeNumbers();
@@ -33,10 +33,11 @@
      // it is affected because it doesn't include 19
 }
 ````
-#### d.	Một kiểm thử được lan truyền, nhưng k tiết lộ:
+__d.    Một kiểm thử được lan truyền, nhưng k tiết lộ:__
 - Kiểm tra này không thể thực hiện được vì các lỗi bắt đầu ở số 19 (chúng ta không xem xét số 9 vì nó không phải là số nguyên tố), tất cả các số nguyên tố tiếp theo kết thúc bằng '9' sẽ không nằm trong giá trị kết quả.
-#### e.	Một bài kiểm thử cho thấy lỗi:
-```
+
+__e.    Một bài kiểm thử cho thấy lỗi:__
+```java
 @Test
  void testComputePrimesE() {
      PrimeNumbers primeNumbers = new PrimeNumbers();

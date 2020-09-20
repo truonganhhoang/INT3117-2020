@@ -1,3 +1,3 @@
-### Exercise 1:
+#### Exercise 1:
 -	Tự động hóa giúp người kiểm thử trong nhiều lĩnh vực, chủ yếu là việc người kiểm thử không phải lặp đi lặp lại những công việc mang tính kỹ thuật. Việc kiểm tra các tiêu chí kiểm tra có thể được tự động hóa thông qua các thiết bị đo, cho phép thực hiện mức độ kiểm tra cao hơn, hiệu quả hơn. 
 -	Tuy nhiên tự động hóa luôn gặp phải các hạn chế, các vấn đề không thể tự quyết định được. Ví dụ như đường dẫn không khả thi, tạo trường hợp thử nghiệm, biến nội bộ, v.v. Tuy giúp đem lại hiệu quả cao, nhưng tự động hóa không thể giúp người kiểm thử xác định đầu ra, và đưa ra được những quyết định sáng tạo.
