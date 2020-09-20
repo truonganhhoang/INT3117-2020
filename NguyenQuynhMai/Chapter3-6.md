@@ -33,8 +33,8 @@
      // bị ảnh hưởng vì không gồm số 19
 }
 ```
-(d) 
-Kiểm tra trường hợp này không khả thi vì chương trình có lỗi (fault) từ số 19 (số 19 là số nguyên tố) nhưng trong mã nguồn đề bài cho lại có câu lệnh ```if (isPrime && (number%10!=9))``` nên tất cả các số nguyên tố có đuôi là 9 sẽ không có trong kết quả đầu ra chương trình.
+(d) <p>
+Kiểm tra trường hợp này không khả thi vì chương trình có lỗi (fault) từ số 19 (số 19 là số nguyên tố) nhưng trong mã nguồn đề bài cho lại có câu lệnh ```if (isPrime && (number%10!=9))``` nên tất cả các số nguyên tố có đuôi là 9 sẽ không có trong kết quả đầu ra chương trình.</p>
 (e)
 ```java
 @Test
