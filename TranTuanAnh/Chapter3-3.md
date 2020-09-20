@@ -45,7 +45,6 @@ public void testEmptyQueue() {
 public void testEnQueue() {
     Object o1 = 1;
     Object o2 = 2;
-    Object o3 = 3;
     this.queue.enQueue(o1);
     Assertions.assertEquals(this.queue.toString(), "[1]");
     this.queue.enQueue(o2);
