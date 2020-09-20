@@ -1,0 +1,3 @@
+## **Question 2:  Give a one-to-two paragraph explanation for how the inheritance hierarchy can affect controllability and observability** ##
+
+ Việc thừa kế (inheritance) sẽ dẫn đến việc theo dõi input và output trở nên vô cùng khó khăn vì khó có được cái nhìn tổng thể khi script bị thừa kế quá nhiều trong, sẽ khó có cái nhìn tổng quát về những gì đang diễn ra trong các test đang chay. Nếu các inheritance graph quá dài, người kiểm thử viên sẽ phải lật qua lật lại định nghĩa giữa các test để theo dõi control flow của chương trình. Vì vậy trong các phương pháp lập trình hướng đối tượng đều khuyên nên giữ inheritance graph càng nông càng tốt
