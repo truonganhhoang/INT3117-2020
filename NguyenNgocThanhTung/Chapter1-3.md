@@ -1,0 +1,3 @@
+- Ý nghĩa của câu 'mục đích của testing lv.3 là giảm risk': khi sử dụng một phần mềm, chúng ta sẽ gặp phải các rủi ro (risk), testing luôn tạo ra sự xuất hiện của failure, vì vậy việc testing với mindset trên sẽ giúp cải tiến phần mềm bằng cách giảm failure, từ đó giảm đc risk.
+- Risk: là rủi ro, là các vấn đề có thể xảy ra và làm ảnh hưởng đến sản phẩm và các bên liên quan, risk có thể nhỏ, không quan trọng, nhưng cũng có thể rất lớn, ảnh hưởng nhiều, và risk luôn luôn tồn tại
+- Không thể giảm risk về 0 được bởi vì risk có thể không xuất hiện tại ở thời điểm hiện tại, nhưng nó sẽ xuất hiện trong tương lai, mà tương lai rất khó để con người có thể cover được (ví dụ phiên bản của các thư viện đang dùng update, sẽ gây ảnh hưởng đến phần code của phần mềm)
