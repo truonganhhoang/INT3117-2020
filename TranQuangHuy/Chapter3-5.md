@@ -1,0 +1,4 @@
+# 5. The following JUnit test method for the sort() method has a non-syntactic flaw. Find the flaw and describe it in terms of the RIPR model. Be as precise, specific, and concise as you can. For full credit, you must use the terminology introduced in the book. In the test method, names is an instance of an object that stores strings and has methods add(), sort(), and getFirst(), which do exactly what you would expect from their names. You can assume that the object names has been properly instantiated and the add() and sort() methods have already been tested and work correctly.
+
+Assertion chỉ kiểm tra một phần nhỏ của trạng thái cuối cùng.Nếu 1 test làm cho 1 lỗi thất bại và nó lan truyền đến một phần khác của trạng thái cuối cùng, thì lỗi sẽ không thể biết được, lúc này tester phải xem lại toàn bộ danh sách test  
+

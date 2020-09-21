@@ -1,0 +1,4 @@
+# Cách kế thừa hệ thống phân cấp có thể ảnh hưởng đến khả năng kiểm soát và khả năng quan sát:
+- Có cây kế thừa của một lớp có thể trở nên phức tạp hơn để kiểm tra, vì các lớp con phụ thuộc vào lớp cha của  chúng nó, điều này có nghĩa rằng nếu chúng ta sửa đổi hoặc cập nhật thứ gì đó trong lớp cha, nó sẽ ảnh hưởng đến tất cả các lớp con tương ứng của nó, có nghĩa là mọi kiểm tra bị ảnh hưởng bởi sửa đổi phải được cập nhật cho các lớp con. Do đó, tính kế thừa không đảm bảo rằng một phương thức được kiểm tra trong ngữ cảnh của lớp cha sẽ hoạt động chính xác hoặc theo cách tương tự như trong ngữ cảnh của lớp con hoặc các lớp kế thừa. Do đó, điều này làm ảnh hưởng đến khả năng kiểm thử vì chúng ta sẽ cần phải kiểm soát mọi siêu cha và các lớp con của nó, và nếu chúng ta có một cây kế thừa sâu, nó sẽ rất phức tạp. Mặt khác, nó ảnh hưởng đến khả năng quan sát, chúng ta cần quan sát một số lượng lớn các lớp con thực sự đang thực hiện công việc giống như lớp siêu.
+
+
