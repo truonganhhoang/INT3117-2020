@@ -1,4 +1,4 @@
-#Chapter 3-6
+# Chapter 3-6
 
 + Test không chạm đến lỗi trong đoạn mã:
 ```
