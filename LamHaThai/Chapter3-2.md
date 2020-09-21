@@ -1,0 +1,2 @@
+##Câu 2:
+Việc kế thừa làm cho các lớp con phụ thuộc vào lớp cha, một phương thức ở lớp cha và lớp con có thể hoạt động không giống nhau. Do dó, người kiểm thử cần cập nhật các bộ kiểm thử cho các lớp con, làm cho việc kiểm soát lớp cha và các lớp con khó khăn hơn, cùng với đó là việc quan sát cũng phức tạp hơn
