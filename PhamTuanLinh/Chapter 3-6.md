@@ -28,7 +28,7 @@ public class ComputePrimeTest
 + Test ảnh hưởng đến trạng thái nhưng không lan rộng
 ```
     @Test
-    void PrimeTest1() {
+    void PrimeTest2() {
         PrimeNumbers newPrime=new PrimeNumbers();
         newPrime.computePrimes(8);
         assertEqual("[2,3,5,7,11,13,17,19]", newPrime.toString());
@@ -39,7 +39,7 @@ public class ComputePrimeTest
 + Test hiển thị lỗi
  ```
      @Test
-    void PrimeTest1() {
+    void PrimeTest3() {
         PrimeNumbers newPrime=new PrimeNumbers();
         newPrime.computePrimes(10);
         assertEqual("[2,3,5,7,11,13,17,19,24,29]", newPrime.toString());
