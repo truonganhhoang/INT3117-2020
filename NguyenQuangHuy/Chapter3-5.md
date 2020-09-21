@@ -1,0 +1,1 @@
+Kiểm định chỉ kiểm tra một phần nhỏ của trạng thái cuối cùng của phần tử đầu tiên trong danh sách. Vì vậy nếu như một test có một lỗi sẽ lan truyền đến một phần khác, ảnh hưởng đến trạng thái cuối cùng thì lỗi đó sẽ không bị phát hiện. Do đó việc kiểm thử cần phải kiểm tra toàn bộ danh sách.
