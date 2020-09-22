@@ -1,0 +1,3 @@
+2. Give a one-to-two paragraph explanation for how the inheritance hierarchy can affect controllability and observability.
+ -Khi chúng ta sửa đổi hoặc cập nhật thứ gì đó trong lớp cha , nó sẽ ảnh hưởng đến tất cả các lớp con của nó, có nghĩa là chúng ta sẽ phải cập nhật kiểm tra cho các lớp con bị ảnh hưởng khi thay đổi lớp cha . 
+ Do đó, kiểm thử trong kế thừa không đảm bảo rằng một phương thức được kiểm tra trong lớp cha sẽ hoạt động chính xác hoặc theo cùng một cách mà trong lớp con  . Điều này dẫn tới chúng ta khó quản lý và khó quan sát  hơn vì chúng ta phải quản lý , để ý cả lớp cha lẫn lớp con của nó 
