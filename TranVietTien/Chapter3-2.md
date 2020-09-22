@@ -1,0 +1,2 @@
+Ảnh hưởng của hệ thống phân cấp kế thừa (inheritance hierarchy) lên tính kiểm soát (controllability) và tính quan sát (observability):
+- Kế thừa có thể khiến việc theo dõi các cặp đầu vào (input) - đầu ra (output) trở nên khó khăn do phải nắm 	bắt được định nghĩa của nhiều lớp (class definitions) để có cái nhìn tổng quan về việc "chuyện gì đang 	xảy ra?" trong quá trình kiểm thử.
