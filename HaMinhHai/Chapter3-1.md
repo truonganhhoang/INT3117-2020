@@ -1,0 +1,3 @@
+# 1. Vì sao người kiểm thử phải tự động hóa kiểm thử? Những giới hạn của tự động hóa là gì?:
+- Tự động hóa rất hữu ích trong nhiều lĩnh vực, phổ biến nhất là giúp người kiểm thử giảm bớt các lặp đi lặp lại của máy móc. Việc rà soát các tiêu chí kiểm thử có thể được tự động hóa qua thiết bị đo lường, cho phép thực hiện mức độ kiểm thử cao hơn.
+- Tự động hóa sẽ luôn rơi vào trạng thái không quyết định được các vấn đề khi trong 1 trường hợp cụ thể. Tự động hóa không thể xác định đầu ra kết quả hoặc sáng tao ra những quyết định mới.
