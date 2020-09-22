@@ -1,0 +1,4 @@
+# Give a one-to-two paragraph explanation for how the inheritance hierarchy can affect controllability and observability.
+
+- Việc kế thừa có thể sẽ khiến việc theo dõi đầu vào và đầu ra ra trở nên khó khăn hơn vì phải theo dõi nhiều lớp để có thể có cái nhìn tổng quan về những gì đang diễn ra trong ca kiểm thử. Do lớp con phụ thuộc vào lớp cha của nó, nếu chúng ta sửa đổi lớp cha thì nó sẽ ảnh hưởng đến tất cả các lớp con tương ứng của nó. Có nghĩa là mọi bài kiểm tra bị ảnh hưởng bởi sửa đổi cần phải được cập nhật lại.
+- Tính kế thừa không đảm bảo rằng một phương thức hoạt động tốt ở lớp cha sẽ hoạt động chính xác, hoặc tương tự theo ngữ cảnh của lớp con. Điều này ảnh hưởng đến khả năng kiểm soát mọi lớp cha và lớp con của nó.
