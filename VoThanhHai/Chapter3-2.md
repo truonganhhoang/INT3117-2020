@@ -1,0 +1,3 @@
+### Give a one-to-two paragraph explanation for how the inheritance hierarchy can affect controllability and observability
+
+Có sự kế thừa lẫn nhau giữa các lớp sẽ khiến việc kiểm thử khó khăn hơn. Vì khi xuất hiện các phụ thuộc giữa các lớp cha con với nhau thì việc sửa đổi cập nhật một lớp sẽ ảnh hưởng đến tất cả các lớp con tương ứng của nó, khả năng kiểm soát (controllability) sẽ bị ảnh hưởng do lúc này ta cần phải kiểm soát mọi lớp cha và lớp con của nó, và nếu có một mô hình kế thừa phức tạp thì hệ thống sẽ rất khó để kiểm thử. Bên cạnh đó, khả năng quan sát (observability) cũng bị ảnh hưởng vì nhiều quan hệ kế thừa tức ta cũng cần theo dõi hoạt động của nhiều lớp con hơn và cả của lớp cha. 
