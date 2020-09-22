@@ -1,0 +1,4 @@
+# Chapter 3
+
+#### 2. Cho 1 hoặc 2 đoạn giải thích kế thừa phân cấp có thể ảnh hưởng như thế nào đến khả năng quan sát và khả năng kiểm soát?
+- Cây kể thử trở nên phức tạp để kiểm tra, bởi vì các lớp con phụ thuộc vào cha của nó, điều đó có nghĩa là nếu chúng ta cập nhật thứ gì đó ở lớp trên, nó sẽ ảnh hưởng đến lớp con tương ứng của nó, nghĩa là mọi phép kiểm tra bị ảnh hưởng bởi sửa đổi cho các lớp con. Do đó tính kế thừa không đảm bảo rằng một phương thức được kiểm tra trong ngữ cảnh của lớp trên sẽ hoạt động chính xác hoặc theo cách tương tự như trong ngữ cảnh của các lớp con. Do đó, điều này ảnh hưởng đến khả năng kiểm soát vì chúng ta sẽ cần phải kiểm soát mọi lớp trên lớp và các lớp con của nó, và nếu chúng ta có 1 cây kế thừa sâu thì sẽ rất phức tạp. Mặt khác nó ảnh hưởng đến khả năng quan sát, chúng ta cần quan sát 1 số lượng lớn các lớp con thực sực đang thực hiện công việc giống như lớp trên.
