@@ -1,2 +1,3 @@
 ### How else could we compare test criteria besides subsumption?
 
+Các tiêu chí kiểm thử (test criteria) giúp cho việc kiểm thử trở nên hiệu quả hơn, việc kiểm thử dựa trên các tiêu chí độ phủ (coverage criteria) giúp những người kiểm thử tìm ra được nhiều lỗi hơn, qua đó đảm bảo chất lượng phần mềm tốt hơn. Tiêu chí kiểm thử được tạo ra để giúp người kiểm thử lựa chọn các tập kiểm thử con để làm đầu vào, các tập này sẽ được sử dụng trong quá trình kiểm thử. Còn về sự thay thế - tập con (subsumption), nó xét cho mối quan hệ giữa các tiêu chí độ phủ, ví dụ như có 2 tiêu chí C1 và C2, C1 thỏa mãn C2 khi và chỉ khi mọi tập kiểm thử thỏa mãn C1 cũng thỏa mãn C2.
