@@ -1,0 +1,3 @@
+#### Exercies 2:
+- Không có câu trả lời đúng cho bài tập này; thay vào đó, vấn đề là làm quen với ít nhất một công cụ.
+- Đây là một bài tập giới thiệu cho sinh viên cách mã nguồn và các bài kiểm tra được quản lý trong thực tế tại các công ty điển hình. Tại thời điểm viết bài này, Jenkins là một máy chủ CI phổ biến và GitHub là một hệ thống quản lý phiên bản phổ biến. Nhưng các công cụ khác chắc chắn có sẵn.
