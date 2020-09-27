@@ -4,7 +4,7 @@ Bài 1:
 	+ Trừ (subtract())
 	+ Nhân (multiple())
 	+ Chia (divide())
-
+```java
 public class Calc {
     public static int add (int a, int b) {
         return (a+b);
@@ -19,9 +19,9 @@ public class Calc {
         return (a/b);
     }
 }
-
+```
 - Thiết kế bộ kiểm cho Calc.java :
-
+```java
 import org.junit.*;
 import static org.junit.Assert.*;
 public class CalcTest {
@@ -41,5 +41,5 @@ public class CalcTest {
 	public void testDivide() {
 		assertEquals (2, Calc.divide(18, 9));
 	}
-  
 }
+```
