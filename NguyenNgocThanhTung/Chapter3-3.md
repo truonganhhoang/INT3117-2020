@@ -1,5 +1,5 @@
-**Ca kiểm thử 1: dùng enQueue() để thêm 2 phần tử 1, 2 vào mảng**
-```
+**Ca kiểm thử 1: dùng ```enQueue()``` để thêm 2 phần tử 1, 2 vào mảng**
+```java
 public void test1()
     {
         BoundedQueue q = new BoundedQueue(2);
@@ -9,8 +9,8 @@ public void test1()
         assertEquals("[1, 2]",q.toString());
     }
 ```
-**Ca kiểm thử 2: dùng enQueue() để thêm 2 phần tử 1, 2 vào mảng, sau đó bỏ phàn tử đầu tiên đi bằng deQueue()**
-```
+**Ca kiểm thử 2: dùng ```enQueue()``` để thêm 2 phần tử 1, 2 vào mảng, sau đó bỏ phàn tử đầu tiên đi bằng ```deQueue()```**
+```java
 public void test2()
     {
         // TODO Auto-generated method stub
@@ -22,8 +22,8 @@ public void test2()
 
     }
 ```
-**Ca kiểm thử 3: dùng enQueue() để thêm 1 phần tử vào mảng với kích cỡ là 2, sau đó kiểm tra mảng đầy chưa bằng isFull()**
-```
+**Ca kiểm thử 3: dùng ```enQueue()``` để thêm 1 phần tử vào mảng với kích cỡ là 2, sau đó kiểm tra mảng đầy chưa bằng ```isFull()```**
+```java
 public void test3()
     {
         BoundedQueue q = new BoundedQueue(2);
@@ -31,8 +31,8 @@ public void test3()
         assertEquals(false, q.isFull());
     }
 ```
-**Ca kiểm thử 5: dùng enQueue() để thêm 1 phần tử vào mảng với kích cỡ là 2, sau đó kiểm tra mảng có rỗng không bằng isEmpty()**
-```
+**Ca kiểm thử 5: dùng ```enQueue()``` để thêm 1 phần tử vào mảng với kích cỡ là 2, sau đó kiểm tra mảng có rỗng không bằng ```isEmpty()```**
+```java
 public void test4()
     {
         BoundedQueue q = new BoundedQueue(2);
@@ -40,16 +40,16 @@ public void test4()
         assertEquals(false, q.isEmpty());
     }
 ```
-**Ca kiểm thử 6: khởi tạo mảng với kích cỡ là 2, sau đó kiểm tra mảng có rỗng không bằng isEmpty()**
-```
+**Ca kiểm thử 6: khởi tạo mảng với kích cỡ là 2, sau đó kiểm tra mảng có rỗng không bằng ```isEmpty()```**
+```java
 public void test5()
     {
         BoundedQueue q = new BoundedQueue(2);
         assertEquals(true, q.isEmpty());
     }
 ```
-**Ca kiểm thử 7: dùng enQueue() để thêm 2 phần tử vào mảng với kích cỡ là 2, sau đó kiểm tra mảng đầy chưa bằng isFull()**
-```
+**Ca kiểm thử 7: dùng ```enQueue()``` để thêm 2 phần tử vào mảng với kích cỡ là 2, sau đó kiểm tra mảng đầy chưa bằng ```isFull()```**
+```java
 public void test6()
     {
         BoundedQueue q = new BoundedQueue(2);
