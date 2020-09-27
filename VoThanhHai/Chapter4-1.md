@@ -30,22 +30,22 @@ import static org.junit.Assert.*;
 public class CalcTest {
 
 	@Test
-  public void testAdd() {
+  	public void testAdd() {
 		assertEquals (8, Calc.add(3, 5));
 	}
   
 	@Test 
-  public void testSubtract() {
+ 	public void testSubtract() {
 		assertEquals (2, Calc.subtract(5, 3));
 	}
   
 	@Test 
-  public void testMultiply() {
+	public void testMultiply() {
 		assertEquals (35, Calc.multiply(7, 5));
 	}
   
 	@Test 
-  public void testDivide() {
+	public void testDivide() {
 		assertEquals (8, Calc.divide(80, 10));
 	}
   
