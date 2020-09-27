@@ -2,8 +2,8 @@
 import org.junit.*;
 import static org.junit.Assert.*;
 public class CalcTest {
-	@Test public void testMultiply()
+	@Test public void testExponent()
 	{
-		assertEquals (7,Calc.multiply(1, 7));
+		assertEquals (6561,Calc.exponent(3, 8));
 	}
 }

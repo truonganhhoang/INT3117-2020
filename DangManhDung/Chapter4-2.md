@@ -1,1 +1,0 @@
-Thiết lập một server liên kết nối tiếp. Bao gồm điều khiển phiên bản cho mã nguồn và kiểm thử.
