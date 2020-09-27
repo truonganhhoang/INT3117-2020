@@ -1,4 +1,3 @@
-1.
 - Đầu tiên, viết kiểm tra phép tính cộng: 
 ```java
 @Test public void testAdd()

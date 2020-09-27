@@ -1,4 +1,3 @@
-3.
 Sử dụng JUnit kiểm tra <br>
 Kiểm tra: AppTest.java
 ```java
