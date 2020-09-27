@@ -1,20 +1,6 @@
 ## Calc.java
 
 ```
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author JOSECARLOS
- */
-// Introduction to Software Testing
-// Authors: Paul Ammann & Jeff Offutt
-// Chapter 3; page ??
-// See CalcTest.java, DataDrivenCalcTest.java for JUnit tests
 public class Calc
 {
    static public int add (int a, int b)
@@ -41,19 +27,9 @@ public class Calc
 
 ## CalcTest.java
 ```
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author JOSECARLOS
- */
 public class CalcTest {
     
     public CalcTest() {
