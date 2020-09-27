@@ -1,4 +1,4 @@
-Sử dụng JUnit kiểm tra <br>
+Sử dụng JUnit kiểm tra. <br>
 Kiểm tra: AppTest.java
 ```java
 package testing.app;
