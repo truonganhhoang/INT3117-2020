@@ -3,14 +3,14 @@
 Em sẽ dùng CircleCI cho bài tập này.
 
 ### Đầu tiên em tạo một repo trống: 
-![](Screenshot2020-09-27213720.png)
+![](Images/Screenshot2020-09-27213720.png)
 
 ### Sau đó, em lên CircleCI và khởi tạo dự án:
-![](Screenshot2020-09-27214145.png)
-![](Screenshot2020-09-27214231.png)
+![](Images/Screenshot2020-09-27214145.png)
+![](Images/Screenshot2020-09-27214231.png)
 
 ### Luồng công việc (Pipeline) đầu tiên thành công:
-![](Screenshot2020-09-27214416.png)
+![](Images/Screenshot2020-09-27214416.png)
 
 ### Vì tệp config.yml chỉ chứa cấu hình đơn giản mà mọi bộ kiểm thử đều "Passed", em sẽ chỉnh file config.yml một chút để Pipeline của nó thất bại (Tệp config.yml được lấy từ tài liệu của CircleCI): 
 ```
@@ -31,7 +31,7 @@ jobs:
 ```
 
 ### Sau khi cập nhật cấu hình, CircleCI sẽ tự động chạy lại Pipeline của nó, và kết quả sẽ cho ra là thất bại:
-![](Screenshot2020-09-27215604.png)
+![](Images/Screenshot2020-09-27215604.png)
 
 Nguyên nhân thất bại là vì config.yml đã thiết lập chuyển sang môi trường node, mà repo của em chưa cài đặt node nên những câu lệnh như ```npm install``` sẽ không chạy được.
 
@@ -55,6 +55,6 @@ workflows:
       - install-node-example
 ```
 ### Và kết quả kiểm thử đã thành công:
-![](Screenshot2020-09-27220920.png)
+![](Images/Screenshot2020-09-27220920.png)
 
 ### Repo của em được công bố trên trang: <https://github.com/fuzeless/CircleCI>

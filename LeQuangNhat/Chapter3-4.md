@@ -1,7 +1,7 @@
 # Delete the explicit throw of NullPointerException in the Min program (Figure 3.2). Verify that the JUnit test for a list with a single null element now 
 
 ### Kết quả test:
-![](Annotation2020-09-18181807.png)
+![](Images/Annotation2020-09-18181807.png)
 
 ### File Min.java (đã xoá dòng throwException như đề bài, lấy từ website của sách): 
 ```

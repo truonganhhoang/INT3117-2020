@@ -51,7 +51,7 @@ public class CalcTest {
 }
 ```
 ### Kết quả bộ kiểm thử sau khi đã thêm các tính năng trên: 
-![](Screenshot2020-09-27210652.png)
+![](Images/Screenshot2020-09-27210652.png)
 
 ### Tuy nhiên, còn một bộ kiểm thử còn lỗi: hàm ```divide()``` chưa xử lý trường hợp chia cho số 0. Em sửa hàm đó như sau:
 ```
@@ -62,4 +62,4 @@ static public int divide(int a, int b)
 }
 ``` 
 ### Và kết quả của bộ kiểm thử: 
-![](Screenshot2020-09-27212137.png)
+![](Images/Screenshot2020-09-27212137.png)

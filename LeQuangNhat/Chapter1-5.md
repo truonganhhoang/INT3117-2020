@@ -1,6 +1,6 @@
 # Chapter 1-5
 ## Case 1
-![](Annotation2020-09-02222328.png)
+![](Images/Annotation2020-09-02222328.png)
 
 **a, Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.**
 
@@ -51,7 +51,7 @@ First error state:
 Đã đề xuất ở câu a
 
 ## Case 2
-![](Annotation2020-09-03215112.png)
+![](Images/Annotation2020-09-03215112.png)
 
 **a, Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.**
 
@@ -95,7 +95,7 @@ First error state:
 *Đề xuất như ở câu a*: ```for (int i = x.length - 1; i >= 0; i--)```
 
 ## Case 3
-![](Annotation2020-09-03221212.png)
+![](Images/Annotation2020-09-03221212.png)
 
 **a, Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.**
 
@@ -139,7 +139,7 @@ First error state:
 *Đề xuất như ở câu a*: ```if (x[i] > 0)```
 
 ## Case 4
-![](Annotation2020-09-03223332.png)
+![](Images/Annotation2020-09-03223332.png)
 
 **a, Explain what is wrong with the given code. Describe the fault precisely by proposing a modification to the code.**
 

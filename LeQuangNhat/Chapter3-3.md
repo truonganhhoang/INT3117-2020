@@ -1,7 +1,7 @@
 # Develop JUnit tests for the ```BoundedQueue``` class.
 
 ### Kết quả chạy test của em:
-![](Annotation2020-09-18180443.png)
+![](Images/Annotation2020-09-18180443.png)
 
 ### File BoundedQueue.java (lấy từ website của cuốn sách):
 ```
