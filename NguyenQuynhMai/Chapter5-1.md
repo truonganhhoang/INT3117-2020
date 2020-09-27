@@ -1,0 +1,3 @@
+(a) T1 có nhất thiết thỏa mãn C2 vì theo định nghĩa của sự phụ thuộc tiêu chí C1 gộp vào (subsumes) với C2 nếu và chỉ nếu mọi tập kiểm tra thỏa mãn tiêu chí C1 cũng thỏa mãn tiêu chí C2.<br>
+(b) T2 không nhất thiết phải thỏa mãn C1 vì không có lý do gì để T2 phải đáp ứng các yêu cầu kiểm tra do C1 tạo ra.<br>
+(c) Nếu P chứa một lỗi, T2 phát hiện được lỗi, T1 không nhất thiết phải phát hiện được lỗi do không có yêu cầu tập thử nghiệm T2 phải là tập con của tập thử nghiệm T1, vì vậy có thể xảy ra trường hợp T2 chứa một thử nghiệm cho thấy lỗi và T1 thì không.
