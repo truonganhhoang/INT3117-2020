@@ -1,6 +1,6 @@
 Bài 5:
 - Chương trình nhập một số bất kì và tính tổng các chữ số của số đã nhập 
-
+```java
 import java.util.Scanner;
 public class Main {
     public static int nhap() {
@@ -29,8 +29,9 @@ public class Main {
         return (T);
     }
 }
-
+```
 - Kiểm có lỗi :
+```java
 public class test{
   @Test
   public static void test(){
@@ -39,9 +40,9 @@ public class test{
     /// Error: Main.tongChuso(123) = 7 not 6
   }
 }  
-
+```
 -Sau khi sửa lại code :
-
+```java
 import java.util.Scanner;
 public class Main {
     public static int nhap() {
@@ -70,8 +71,9 @@ public class Main {
         return (T);
     }
 }
-
+```
 -Kiểm không có lỗi :
+```java
 public class test{
   @Test
   public static void test(){
@@ -80,3 +82,4 @@ public class test{
     ///Main.tongChuso(123) = 6
   }
 }  
+```
