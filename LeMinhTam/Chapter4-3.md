@@ -1,4 +1,4 @@
-#3. Cài đặt mở rộng bài tập trước để máy chủ tích hợp liên tục có thể sử dụng các công cụ bổ sung như phạm vi bao phủ mã nguồn hoặc lý giải tĩnh.
+# 3. Cài đặt mở rộng bài tập trước để máy chủ tích hợp liên tục có thể sử dụng các công cụ bổ sung như phạm vi bao phủ mã nguồn hoặc lý giải tĩnh.
 
 - Ta có thể sử dụng cài đặt plugin `JaCoCo` (project `Maven`) tạo báo cáo về độ bao phủ mã nguồn trong quá trình xây dựng. Để lưu báo cáo đó dưới dạng cấu phần bản dựng, ta sử dụng bước `store_artifacts`.
 - Tích hợp `JaCoCo` vào project, ta có file `config` như sau:
