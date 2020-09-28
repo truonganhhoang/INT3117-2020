@@ -1,0 +1,12 @@
+## Question 1 :Suppose that coverage criterion C1 subsumes coverage criterion C2. Further suppose that test set T1 satisfies C1 on program P and test set T2 satisfies C2, also on P.
++ a) Does T1 necessarily satisfy C2? Explain.
+   
+    T1 phải thỏa mãn C2 vì T1 thỏa mãn C1 mà C1 thay thế được C2.
++ (b) Does T2 necessarily satisfy C1? Explain.
+
+     Không vì T2 chỉ thỏa mãn C2 được một mức độ thấp hơn trong C1 nên không có gì khẳng định yêu cầu kiểm thử được tạo ra bởi C1 sữ được thỏa mãn bởi T2  .
+
++ (c) If P contains a fault, and T2 reveals the fault, T1 does not necessarily also reveal the
+fault. Explain.
+
+     Vì T2 có thể có những bộ kiểm thử khác Không nằm trong T1 Nên T2 có thể phát hiện những lỗi khác mà T1 không lường trước được
