@@ -1,0 +1,1 @@
+Độ bao phủ của ca kiểm thử đã được thể hiện trên Action của Github
