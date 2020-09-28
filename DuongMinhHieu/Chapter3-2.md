@@ -1,0 +1,3 @@
+# Give a one or two paragraph explanation for how the inheritance hierarchy can affect controllability and observability.
+
+* Kế thừa có thể khiến cho việc theo dõi đầu ra và đầu vào khó khăn khi mà ta phải theo dõi nhiều định nghĩa lớp để có thể có một cái nhìn tổng quan về điều gì đang xảy ra khi đang chạy các ca kiểm thử. Đôi khi có một hệ thống kế thừa quá dài khiến cho việc theo dõi rất khó khăn, dẫn đến khó khăn trong việc kiểm soát.

@@ -1,0 +1,1 @@
+<p>Chưa bao giờ làm việc cho một công ty phát triển phần mềm, mức độ kiểm thử ở mức 0:testing=debugging, chạy chương trình sai tìm ra lỗi.</p>

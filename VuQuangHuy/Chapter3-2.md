@@ -1,0 +1,3 @@
+# Câu 2. 
+- Kế thừa phân cấp có thể gây ra sự phức tạp khi kiểm thử, vì các lớp con phụ thuộc vào lớp cha của nó nên khi chúng ta sửa đổi gì đó ở một lớp cha, nó sẽ ảnh hưởng đến tất cả các lớp con tương ứng, nghĩa là mọi thử nghiệm bị ảnh hưởng bởi sự sửa đổi đều phải được cập nhật cho các lớp con. Điều này ảnh hưởng đến khả năng kiểm soát, vì nếu có một cây kế thừa sâu, nó sẽ rất phức tạp
+- Nó còn ảnh hưởng đến tính khả quan sát, vì chúng ta cần quan sát một số lượng lớn các lớp con mà thực ra đang hoạt động công việc giống như lớp cha của nó. 

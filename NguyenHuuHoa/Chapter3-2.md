@@ -1,0 +1,3 @@
+Bài 2:
+
+Việc kế thừa có thể trở nên phức tạp để kiểm tra, vì các class con phục thuộc vào class cha của nó. Điều đó có nghĩa là, nếu chúng ta sửa đổi hoặc cập nhật ở trong class cha, điều đó sẽ ảnh hưởng đến tất cả các class con tương ứng của nó. Mọi kiểm tra bị ảnh hưởng bởi sửa đổi phải được cập nhật cho các class con. Do đó tính kế thừa không đảm bảo rằng một phương thức được kiểm tra trong class cha sẽ hoạt động chính xác trogn class con. Điều này ảnh hưởng đến khả năng kiểm soát vì chúng ta cần phải kiểm soát mọi class cha và class con của nó.

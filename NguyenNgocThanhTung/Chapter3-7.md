@@ -1,0 +1,3 @@
+- Số dương đầu tiên mà khiến thuật toán gây lỗi là 8, nếu chạy phương thức ``computePrimes(8)`` thì sẽ ra kết quả là ``[2, 3, 5, 7, 11, 13, 17, 23]``, nhưng đáng lẽ kết quả sẽ là ``[2, 3, 5, 7, 11, 13, 17, 19]``.
+- Ca kiểm thử sẽ cần làm cho phương thức in ra 7 số nguyên tố trước khi gặp lỗi (fault).
+- Bài tập này làm nổi bật lên tính ``Có khả năng chạm tới được (Reachability)`` của mô hình ``RIPR``, vì ca kiểm thử cần phải thiết kế đầu vào với số lớn hơn 7 thì lúc đó lỗi mới xuất hiện được.

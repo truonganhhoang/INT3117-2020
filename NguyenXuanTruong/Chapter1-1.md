@@ -1,0 +1,1 @@
+1, Từ cấp độ 2 bước đầu đã có các quy trình, phương pháp và tiêu chuẩn, đến cấp độ 4 có thể định lượng, dự đoán, đo lường chất lượng thì không chỉ cần sự làm việc theo nhóm mà còn cần các chuyên gia phân tích, hoạch định chiến lược. 

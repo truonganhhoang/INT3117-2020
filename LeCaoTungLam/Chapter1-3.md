@@ -1,0 +1,3 @@
+3.	What do we mean by “level 3 thinking is that the purpose of testing is to reduce risk?”  What risk? Can we reduce the risk to zero?
+
+-	As the thinking of the level 3 testing is to show the presence of failures, the process will drive the tester to think about every possibility that might happen. The risk here is the failure of the program. In fact, whenever we do or use the software, the risk is always there. It would be an impossible mission to completely exclude those risks. That is the reason the level 3 testing appear, to minimize the failures as low as possible, saving the cost and reduce the risk of the software. 

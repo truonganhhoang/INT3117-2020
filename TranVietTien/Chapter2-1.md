@@ -1,0 +1,2 @@
+- Kiểm tra (testing) là quá trình tạo ra các lỗi hiển thị bên ngoài (failures) hoặc cho thấy rằng chúng xảy ra ở mức độ chấp nhận được.
+- Gỡ lỗi (debugging) là quá trình "chẩn đoán": tìm ra lỗi tĩnh (fault) đã gây ra lỗi hiển thị bên ngoài (failure) được tìm thấy.

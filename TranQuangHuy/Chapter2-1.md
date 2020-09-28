@@ -1,0 +1,2 @@
+# 1. faults và failures liên quan đến testing và debugging như thế nào?
+Dựa và beizer levels. tesing là quá trình cố gắng để xẩy ra failures hoặc cho thấy chúng ở một mức độ có thể chấp nhận đượ. Ngược lại, quá trình debugging là chuẩn đoán failures để tìm ra fault 

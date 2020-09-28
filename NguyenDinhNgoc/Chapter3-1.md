@@ -1,0 +1,4 @@
+**1. Why do testers automate tests? What are the limitations of
+automation?**
+    
+    Tự động hóa nói chung thì ở tất cả các lĩnh vực đều mang lại tác dụng tích cực, giúp các công việc được tiến hành nhanh hơn, nâng cao tính chính xác, tiết kiệm thời gian cũng như nguồn lực cho con người. Áp dụng những lợi ích ấy vào kiểm thử, các nhà kiểm thử vận dụng nó để hoàn thành các phép đo một các tự động, giảm bớt các tác vụ máy móc lăp đi lặp lại, nâng cao hơn mức độ kiểm tra. Về mặt hạn chế, tự động hóa được vận hành bởi máy móc nên mang bản chất hơi cứng nhắc, khó khăn sẽ xảy ra khi gặp phải vấn đề vì nó không thể tự quyết định giải quyết, ngoài ra thì tự động hóa không giúp xác thực đầu ra của việc kiểm thử.

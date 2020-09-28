@@ -1,0 +1,2 @@
+# Câu 2(b): Nếu chưa từng làm cho một công ty phát triển phần mềm, việc nào trong các công việc (thiết kế ca kiểm thử, kiểm thử tự động, thực thi ca kiểm thử, đánh giá) mà bạn nghĩ mình phù hợp nhất ?
+- Em nghĩ mình phù hợp nhất với việc thiết kế ca kiểm thử và kiểm thử tự động nhất vì em đã có kinh nghiệm làm những việc này từ trước. 

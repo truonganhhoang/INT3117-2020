@@ -1,0 +1,2 @@
+# Câu 7:
+- 'computePrimes' hiện đang sử dụng Sieve of Eratosthenes để tìm các số nguyên tố. Kết quả đầu tiên lại là 9, nó không in ra, để đạt được lỗi, nó phải tính toán 7 số nguyên tố đầu tiên. Mô hình RIPR nên được sử dụng để biết liệu có lỗi trong hệ thống hay không, ngược lại, có thể nghĩ rằng chương trình đang chạy chính xác, nhưng có quá nhiều lỗi tích cực đang chờ được phổ biến.

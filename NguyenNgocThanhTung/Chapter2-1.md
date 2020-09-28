@@ -1,0 +1,5 @@
+Khiểm khuyết (fault) và thất bại (failure) có liên quan đến kiểm thử (testing) và gỡ lỗi (debugging):
+- Fault: là những khiếm khuyết trong phần mềm, ý là chỉ những lỗi trong mã nguồn (code) của phần mềm.
+- Failure: là những hành vi, biểu hiện sai (thể hiện được ở bên ngoài phần mềm, mà chúng ta quan sát được), không đáp ứng được về mặt yêu cầu của phần mềm.
+- Testing (kiểm thử): là việc đánh giá phần mềm dựa vào việc quan sát cách nó thực thi, tức là từ việc biết điều kiện đầu vào và kết quả đầu ra mong đợi, người kiểm thử sẽ đưa các bộ đầu vào (input) vào phần mềm để kích hoạt (trigger) các khiếm khuyết (fault) gây ra thât bại của phần mềm (software failure).
+- Debugging: là gỡ lỗi, nó là quá trình tìm ra khiếm khuyết (fault) trong mã nguồn (code), khiếm khuyết đó chính là yếu tố gây ra thất bại phần mềm (software failure).

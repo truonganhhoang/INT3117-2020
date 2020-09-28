@@ -1,0 +1,2 @@
+# 2. Việc kế thừa của cấp bậc có thể ảnh hưởng tới khả năng điều khiển và quan sát như nào?
+- Việc kế thừa có thể khiến việc theo dõi đầu vào và đầu ra trở nên khó khăn vì ta phải theo dỡi nhiều lớp định nghĩa để có thể có được cái nhìn tổng quát về những gi đang diễn ra khi các trương hợp kiểm thử đang chạy. Thỉnh thoảng có những đồ thị kế thừa dài như 1 chuyển động lên xuống của 1 chiếc yo-yo.
