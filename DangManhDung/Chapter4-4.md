@@ -1,0 +1,2 @@
+Tìm một tái cấu trúc trong một hệ thống tồn tại sẵn. Xây dựng kiểm thử bắt được hành động liên quan đến bộ phận của hệ thống. Cấu trúc lại, và kiểm tra xem kiểm thử vẫn qua.
+* Code của "GoalieStatistics.java" được lấy từ dzone.com, code đi kèm trong "Chapter4-4 code", sau khi tái cấu trúc lại trong "GoalieStatistics.java" với code ban đầu là "GoalieStatistics(initial).java" thì bộ kiểm thử "GoalieStatisticsTest.java" vẫn qua được
