@@ -30,7 +30,7 @@ Do `p1 = p2` nên ta hi vọng kết quả là `b = true`, nhưng do hai điểm
     public void checkHashCodes(){
         Point p1 = new Point(2, 3);
 	Point p2 = new Point(2, 3);
-        assertTrue("Hash codes bang nhau", p1.hashCode() = p2.hashCode());
+        assertTrue("Hash codes bang nhau", p1.hashCode() == p2.hashCode());
     }
 ```
 
