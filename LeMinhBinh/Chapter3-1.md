@@ -1,4 +1,4 @@
-# Chapter 3 - 1
+# Chapter 3-1
 
 > Why do testers automate tests? What are the limitations of automation?
 >

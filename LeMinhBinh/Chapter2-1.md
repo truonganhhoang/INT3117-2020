@@ -1,4 +1,4 @@
-# Chapter 2 - 1
+# Chapter 2-1
 
 > How are faults and failures related to testing and debugging?
 >

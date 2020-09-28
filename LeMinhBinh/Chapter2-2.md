@@ -1,4 +1,4 @@
-# Chapter 2 - 2
+# Chapter 2-2
 
 > Answer question (a) or (b), but not both, depending on your background.
 >
