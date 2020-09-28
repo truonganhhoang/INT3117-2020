@@ -1,4 +1,4 @@
-
+#### Exercise 5:
 __(a) Does T1 necessarily satisfy C2? Explain:__
 - Đúng. Điều này tiếp theo trực tiếp từ định nghĩa của phụ gia.
 
