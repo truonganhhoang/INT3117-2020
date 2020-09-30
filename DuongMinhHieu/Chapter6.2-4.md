@@ -1,4 +1,4 @@
-# Answer the following questions for the method `intersection()` in the book4
+# Answer the following questions for the method `intersection()` in the book
 
 * (a) Does the partition “Validity of s1” satisfy the completeness property? If not, give a value for s1 that does not fit in any block.
 * (b) Does the partition “Validity of s1” satisfy the disjointness property? If not, give a value for s1 that fits in more than one block.
