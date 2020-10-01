@@ -1,15 +1,16 @@
 # A tester defined three characteristics based on the input parameter car: Where Made, Energy Source, and Size. The following partitionings for these characteristics have at least two mistakes. Correct them.
 
 * Trong đề bài ta có bảng các đặc trưng và khối như sau:
-| | Where Made | |
+
+|a | Where Made |a |
 |-------|------------|--------|
 | North America | Europe | Asia |
 |-------|------------|--------|
-| | Energy Source | |
+| a| Energy Source | a |
 |---|---------------|---|
 | gas | electric | hybrid |
 |-----|---------|---------|
-|  | Size | |
+| a | Size | a |
 |----------|------|----------|
 | 2-door | 4-door | hatch back |
 
