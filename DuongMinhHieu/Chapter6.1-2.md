@@ -2,7 +2,7 @@
 
 * Trong đề bài ta có bảng các đặc trưng và khối như sau:
 
-|a | Where Made |a |
+| Where Made |
 |-------|------------|--------|
 | North America | Europe | Asia |
 |-------|------------|--------|
