@@ -2,15 +2,15 @@
 
 * Trong đề bài ta có bảng các đặc trưng và khối như sau:
 
-| Where Made |
+| / | Where Made | / |
 |-------|------------|--------|
 | North America | Europe | Asia |
 |-------|------------|--------|
-| a| Energy Source | a |
+| / | Energy Source | / |
 |---|---------------|---|
 | gas | electric | hybrid |
 |-----|---------|---------|
-| a | Size | a |
+| / | Size | / |
 |----------|------|----------|
 | 2-door | 4-door | hatch back |
 
