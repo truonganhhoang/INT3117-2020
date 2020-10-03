@@ -29,3 +29,59 @@ Cho 4 đồ thị sau
         iii	[4,3,5,6]
         iv	[4,3,5,7,2,8]
         v	[4,3,5,6,7,2,8]
+
+* Graph II:
+
+        i	[1,2,3]
+        ii	[1,2,6]
+        iii	[3,4,5,2,3]
+        iv	[3,5,2,3]
+        v	[3,4,5,2,6]
+        vi	[3,5,2,6]
+
+* Graph III:
+
+        i	[1,2,3]
+        ii	[1,2,3,5]
+        iii	[1,2,6]
+        iv	[4,5,2,3]
+        v	[4,5]
+        vi	[4,5,2,6]
+
+* Graph IV:
+
+        i	[1,2,3,5]
+        ii	[1,2,3,4,5]
+        iii	[1,2,6]
+        iv	[5,2,3,5]
+        v	[5,2,3,4,5]
+        vi	[5,2,6]
+
+(c) Xác định du-path nào mà các đường đi kiểm thử tour được.
+
+* Graph I
+
+ |Tour | Side-trip
+-|----- | -----
+t1|i| 
+t2| |i
+t3|ii|i
+t4|iv| 
+t5|iii, v| 
+t6| |iii, iv, v
+
+* Graph II
+
+ |Tour | Side-trip
+-|----- | -----
+t1|i| 
+t2| |i
+t3|ii|i
+t4|iv| 
+
+* Graph III
+
+ |Tour | Side-trip
+-|----- | -----
+t1|i, ii|iii
+t2|i, iv,vi| 
