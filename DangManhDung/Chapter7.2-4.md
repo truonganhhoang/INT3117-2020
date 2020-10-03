@@ -12,7 +12,7 @@ Cho một đồ thị với các nút và cạnh sau:
 * Điều này là không thể vì mọi đường đi kiểm thử bắt đầu từ nút, visit nút 2 và kết thúc ở nút 4. Bất kỳ đường đi nào visit nút 3 sẽ visit cả hai cạnh (2, 3) và (3, 2)
 
 (c) Liệt kê các đường đi đạt được bao hàm cạnh nhưng không bao hàm cặp cạnh nếu có thể.
-* T={(1,2,3,2,4)}
+* T={[1,2,3,2,4]}
 
 (d) Liệt kê các đường đi đạt được bao hàm cặp cạnh
-* T={(1,2,4),(1,2,3,2,3,2,4)}
+* T={[1,2,4],[1,2,3,2,3,2,4]}
