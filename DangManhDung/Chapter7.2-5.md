@@ -22,7 +22,7 @@ Và các đường đi kiểm thử được ứng cử:
 (d) Cho đường đi đơn giản [3,2,4,5,6] và đường đi kiểm thử [1,2,3,2,4,6,1,2,4,5,6,1,7]. Đường đi kiểm thử có tour đường đi đơn giản không?
 * Có, nhưng mà cần phải có sidetrip. Đường đi đơn giản tour được với sidetrip (trong ngoặc) là
 
-    [3,2,4,(6,1,2,4),5,6]
+      [3,2,4,(6,1,2,4),5,6]
 
 (e) Liệt kê yêu cầu kiểm thử cho bao hàm nút, bao hàm cạnh, bao hàm đường đi nguyên tố
 * Bao hàm nút: TR = {1,2,3,4,5,6,7}
