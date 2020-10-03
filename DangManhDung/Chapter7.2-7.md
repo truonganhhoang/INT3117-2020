@@ -14,7 +14,7 @@ Và cho các đường đi ứng cử,
 (a) Đường đi nào là đường đi kiểm thử?
 * Đường đi kiểm thử là: p2, p3.
 * p1 không phải là đường đi kiểm thử vì nó không kết thúc ở nút cuối cùng.
-* p1 không phải là đường đi kiểm thử vì nó không bắt đầu ở nút khởi động.
+* p4 không phải là đường đi kiểm thử vì nó không bắt đầu ở nút khởi động.
 * p5 không phải là đường đi kiểm thử vì nó có cạnh (3,2) không thuộc bộ các cạnh trong đồ thị.
 
 (b) Liệt kê 8 yêu cầu kiểm thử cho bao hàm cặp cạnh.
@@ -26,4 +26,4 @@ Và cho các đường đi ứng cử,
 (d) Cho đường đi nguyên tố [3,1,3] và đường đi p3 = [1, 2, 3, 1, 2, 1, 3]. p3 có tour đường đi nguyên tố không?
 * Có. Nhưng mà cần phải có sidetrip. Đường đi nguyên tố với side trip (trong ngoặc) là
 
-    [3,1,(2,1),3]
+      [3,1,(2,1),3]
