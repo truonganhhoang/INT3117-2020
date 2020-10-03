@@ -61,7 +61,7 @@ Cho 4 đồ thị sau
 
 * Graph I
 
-Test|Tour | Side-trip
+Test | Tour | Side-trip
 -|----- | -----
 t1|i| 
 t2| |i
@@ -72,7 +72,7 @@ t6| |iii, iv, v
 
 * Graph II
 
- |Tour | Side-trip
+Test | Tour | Side-trip
 -|----- | -----
 t1|i| 
 t2| |i
@@ -81,7 +81,7 @@ t4|iv|
 
 * Graph III
 
- |Tour | Side-trip
+Test | Tour | Side-trip
 -|----- | -----
 t1|i, ii|iii
 t2|i, iv,vi| 
