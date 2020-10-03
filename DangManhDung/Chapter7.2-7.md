@@ -26,4 +26,4 @@ Và cho các đường đi ứng cử,
 (d) Cho đường đi nguyên tố [3,1,3] và đường đi p3 = [1, 2, 3, 1, 2, 1, 3]. p3 có tour đường đi nguyên tố không?
 * Có. Nhưng mà cần phải có sidetrip. Đường đi nguyên tố với side trip (trong ngoặc) là
 
-    [3,1,(2,1),3]
+      [3,1,(2,1),3]
