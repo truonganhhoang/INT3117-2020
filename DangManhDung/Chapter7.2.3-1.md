@@ -74,10 +74,10 @@ t6| |iii, iv, v
 
 Test | Tour | Side-trip
 -|----- | -----
-t1|i| 
-t2| |i
-t3|ii|i
-t4|iv| 
+t1|ii| 
+t2|i,iii,vi|ii,iv,v,vi 
+t3|i,iv,v|ii,iii,vi
+t4|i,vi|ii,iv 
 
 * Graph III
 
@@ -85,3 +85,11 @@ Test | Tour | Side-trip
 -|----- | -----
 t1|i, ii|iii
 t2|i, iv,vi| 
+
+* Graph IV
+
+Test | Tour | Side-trip
+-|----- | -----
+t1|iii|
+t2|ii,vi|i,iii,iv,v 
+t3|i,v,vi|ii,iii,iv
