@@ -3,19 +3,19 @@
 
 
 ### 1.
-Giả sử có các tệp: cat, dog, panda
+Presume we have 3 files: cat, dog, panda
 - **True - True**: cat
 - **True - False**: cat, dog
 - **False - True**: dog, cat
 - **False - False**: dog, cat, panda
 
 ### 2.
-- Phân vùng **Được sản xuất từ đâu** (Where made) chưa được hoàn thiện, cần thêm giá trị **Khác** (Other).
-- Phân vùng **Kích cỡ** (Size) có sựa lấn làn giữa các giá trị, xe có cửa nối giữa khoang ngồi sau và khoang ngồi trước (hatch-back car) có thể có bốn cửa (4-door) hoặc là hai cửa (2-door), cần sửa thành 2 giá trị là **hatch-back 2-door** và **hatch-back 4-door**, nghĩa là **xe bốn cửa có cửa nối giữa** và **xe hai cửa có cửa nối giữa**.
+- Partition **Where made** is not complete, need variable **Other**.
+- Partition **Size** overlap between values, the vehicle has bridging door between back and front cabin (hatch-back car) and possibly 4-doors or 2-doors, value needs to change to **hatch-back 2-door** and **hatch-back 4-door**
 
 ### 3.
-- Không thoả mãn tính rời rạc, ví dụ: ``Search([6,9,6], 6)`` không chỉ ra được phẩn tử 6 nằm ở đầu hay ở cuối của danh sách.
-- Không thoả mãn tính đầy đủ, ví dụ: ``Search([6,9,6], 10)`` không có ô (block) tiếp nhận phần tử mà không có trong danh sách.
+- Does not satisfy the discreteness, for example: ``Search([6,9,6], 6)`` can't point out whether the 6-th element is in the front or at the back of the list
+- Does not satisfy the completeness, for example: ``Search([6,9,6], 10)`` block to receive element that does not belongs to the list
 
 ## Section 1
 
