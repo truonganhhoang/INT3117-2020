@@ -8,7 +8,7 @@
 ![](images/Chapter%203-3.png)
 
 
-### File BoundedQueueTest
+### File BoundedQueueTest:
 
 ```java
 import static org.junit.Assert.*;
