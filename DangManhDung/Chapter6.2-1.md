@@ -1,4 +1,4 @@
-Viết 64 kiểm thử thỏa mãn tất cả kết hợp tiêu chí cho sự phân loại của đầu vào **triang()** trong Table 6.2
+Viết 64 kiểm thử thỏa mãn tiêu chí kết hợp tất cả cho sự phân loại thứ hai của đầu vào **triang()** trong Table 6.2
 
 ![image](https://user-images.githubusercontent.com/48431650/95005410-49199480-0622-11eb-863d-fa47cee36eb0.png)
 
