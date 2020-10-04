@@ -93,3 +93,49 @@ Test | Tour | Side-trip
 t1|iii|
 t2|ii,vi|i,iii,iv,v 
 t3|i,v,vi|ii,iii,iv
+
+
+(d) Liệt kê một bộ kiểm thử tối giản thỏa mãn bao hàm toàn defs liên quan tới x.
+
+* Graph I
+ 
+        {t1,t4} hoặc {t1,t5} hoặc {t3,t4} hoặc {t3,t5}
+
+* Graph II
+
+        {t2} hoặc {t3} hoặc {t4}
+
+* Graph III
+
+        {t2}
+
+
+(e) Liệt kê một bộ kiểm thử tối giản thỏa mãn bao hàm toàn uses liên quan tới x.
+
+* Graph I
+
+        {t1,t3,t5}
+
+* Graph II
+
+        {t1,t3} hoặc {t1,t2}
+
+* Graph III
+
+        {t1,t2,[1,2,6],[1,2,3,4,5,2,3,5,2,6]}
+
+
+(f) Liệt kê một bộ kiểm thử tối giản thỏa mãn bao hàm toàn du-path liên quan tới x.
+
+* Graph I
+
+        {t1,t3,t4,t5}
+
+* Graph II
+
+        {t1,t2,t3}
+
+* Graph III
+
+        {t1,t2,[1,2,6],[1,2,3,4,5,2,3,5,2,6]}
+
