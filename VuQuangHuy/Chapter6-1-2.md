@@ -1,0 +1,2 @@
+- "Where Made" chưa hoàn thiện. Cần thêm 1 số châu lục khác hoặc thêm "other".
+- "Size" bị trùng, 2 cửa hay 4 cửa thì vẫn có thể là xe hatchback. Ta có thể chia ra làm 2 thuộc tính mới: Side doors: 2|4; Hatchback:Yes|No
