@@ -23,7 +23,7 @@
 - Số thử nghiệm cần để thỏa mãn tiêu chí All Combinations: 3*3*4 = 36
 
 ## d,
-- Vì mỗi ca kiểm thử có thể chứa 3 cặp nên cần ít nhất 11 ca kiểm thử
+
 |V1		|V2		|Op		|
 |-------|-------|-------|
 |-3		|-3		|+		|   
