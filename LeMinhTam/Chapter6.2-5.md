@@ -37,9 +37,9 @@
 - Cần 3 * 3 * 4 = 36 ca kiểm thử
 
 d.  Đưa ra một số ca kiểm thử thỏa mãn tiêu chuẩn kết cặp Pair-Wise  
-- Các cặp tổ hợp: 7 + 7 + 7 + 4 + 4 + 4 = 33
-- Mỗi ca kiểm thử có thể chia làm 3 đôi nên cần ít nhất 11 ca kiểm thử. Như vậy, giải pháp tốt nhất là thêm 1 ca kiểm thử, tổng cộng 12 ca
-- Các ca kiểm thử
+  - Các cặp tổ hợp: 7 + 7 + 7 + 4 + 4 + 4 = 33
+  - Mỗi ca kiểm thử có thể chia làm 3 đôi nên cần ít nhất 11 ca kiểm thử. Như vậy, giải pháp tốt nhất là thêm 1 ca kiểm thử, tổng cộng 12 ca
+  - Các ca kiểm thử
 
     | V1 | V2 | Op |
       |-----------------|---------|---------|
