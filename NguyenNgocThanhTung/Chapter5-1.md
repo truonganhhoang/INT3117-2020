@@ -1,0 +1,3 @@
+- Điều kiện bao phủ ``C1`` thoả mãn điều kiện bao phủ ``C2`` nên mọi ca kiểm thử mà thoả mãn điều kiện ``C1`` sẽ phải thoả mãn điều kiện ``C2``, nên tập kiểm thử ``T1`` (test set T1) phải thoả mãn điều kiện ``C2``.
+- Tập kiểm thử ``T2`` (test set T2) không cần phải thoả mãn điều kiện ``C1`` bởi vì, từ đề bài, chỉ có một dữ kiện là điều kiện bao phủ ``C1`` phải thoả mãn điều kiện bao phủ ``C2`` chứ không có chiều ngược lại.
+- Chương trình ``P`` bị lỗi, bộ kiểm thử ``T2`` phát hiện ra lỗi nhờ vào một ca kiểm thử mà ca kiểm thử đó lại không có trong bộ kiểm thử ``T1``, vì vây, bộ kiểm thử ``T1`` không nhất thiết phải phát hiện được ra lỗi đó.
