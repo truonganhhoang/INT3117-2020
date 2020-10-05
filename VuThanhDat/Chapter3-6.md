@@ -16,7 +16,8 @@ Với lần thử thử 2, nếu chúng ta gọi phương thức với một bi�
     prime.computePrimes(1);
     assertEquals("[3]", prime.toString());
   }
-```
+```   
+
 Với lần thử nghiệm thứ 3, nếu gọi phương thức với số 19 nó sẽ không thêm số 19 là số prime number bởi vì lỗi của chương trình. Nhưng nếu chúng ta không thực hiện phương thức ```toString()``` cho lớp ```PrimeNumber```, ngay cả khi nó không lây nhiễm nó sẽ không lan truyền đi và người dúng sẽ không nhận ra lỗi, kết quả ```failed```
 ```java
 @Test
