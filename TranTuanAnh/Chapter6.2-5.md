@@ -24,7 +24,7 @@ Use the following characteristics and blocks for the questions below: <br/>
 -   `(2, 2, *)`
 -   `(2, 2, /)`
 
-`(c)` Số ca kiểm thử là 3 _ 3 _ 4 = 36
+`(c)` Số ca kiểm thử là `3 * 3 * 4 = 36`
 
 `(d)` 12 ca kiểm thử là:
 
