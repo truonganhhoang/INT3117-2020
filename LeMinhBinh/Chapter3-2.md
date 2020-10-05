@@ -1,4 +1,4 @@
-# Chapter 2 - 1
+# Chapter 3-2
 
 > Give a one-to-two paragraph explanation for how the **inheritance** hierarchy can affect controllability and observability.
 >
