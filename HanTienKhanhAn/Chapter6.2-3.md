@@ -1,4 +1,4 @@
-3. Viết 16 kieiemr thử cho MBCC:
+3. Viết 16 kiểm thử cho MBCC:
 ```
 {(2, 2, 2),(0, 2, 2), (1, −1, 2), (−1, 2, 2)
 
