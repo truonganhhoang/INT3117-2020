@@ -1,0 +1,2 @@
+Vấn đề: xử lý đầu vào là chuỗi rỗng.
+Giải quyết bằng cách dùng ```@throws IllegalArgumentException``` nếu là chuỗi rỗng. Dùng ```if (patternLen == 0) throw new IllegalArgumentException("PatternIndex.patternIndex");```.
