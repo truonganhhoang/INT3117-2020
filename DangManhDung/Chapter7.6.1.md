@@ -1,6 +1,7 @@
 Tạo hai trường hợp sử dụng cho tương tác với ATM.
 
 **Trường hợp:** rút tiền từ tài khoản
+
 **Tóm tắt:** khách hàng dùng một thẻ hợp lệ để lấy tiền từ tài khoản ngân hàng hợp lệ
 **Người tham gia:** khách hàng
 **Trạng thái ban đầu:** ATM hiện màn hình chờ
