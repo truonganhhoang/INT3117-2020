@@ -55,21 +55,21 @@ Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
 
 (d) Tạo thông số kiểm thử để thỏa mãn bao hàm All-Coupling-Use cho **Watch**
 
-        i.	t1: mode = TIME,	button = UP
-        ii.	t2: mode = TIME,	button = UP, UP, ..., UP 60 times (we abbreviate this as UP 60)
-        iii.	t3: mode = TIME,	button = UP^1440
-        iv.	t4: mode = TIME,	button = DOWN
-	v.	t5: mode = TIME,	button = DOWN^60
-        vi.	t6: mode = TIME,	button = DOWN^1440
-        vii.	t7: mode = STOPWATCH,	button = UP
-        viii.	t8: mode = STOPWATCH,	button = UP^60
-        ix.	t9: mode = STOPWATCH,	button = UP^1440
-        x.	t10: mode = STOPWATCH,	button = DOWN
-        xi.	t11: mode = STOPWATCH,	button = DOWN^60
-        xii.	t12: mode = STOPWATCH,	button = DOWN^1440
-        xiii.	t13: mode = ALARM,	button = UP
-        xiv.	t14: mode = ALARM,	button = UP^60
-        xv.	t15: mode = ALARM,	button = UP^1440
-        xvi.	t16: mode = ALARM,	button = DOWN
-        xvii.	t17: mode = ALARM,	button = DOWN^60
-        xviii.	t18: mode = ALARM,	button = DOWN^1440
+        i.      t1: mode = TIME,        button = UP
+        ii.     t2: mode = TIME,        button = UP, UP, ..., UP 60 times
+        iii.    t3: mode = TIME,        button = UP^1440
+        iv.     t4: mode = TIME,        button = DOWN
+	v.      t5: mode = TIME,        button = DOWN^60
+        vi.     t6: mode = TIME,        button = DOWN^1440
+        vii.    t7: mode = STOPWATCH,   button = UP
+        viii.   t8: mode = STOPWATCH,   button = UP^60
+        ix.     t9: mode = STOPWATCH,   button = UP^1440
+        x.      t10: mode = STOPWATCH,  button = DOWN
+        xi.     t11: mode = STOPWATCH,  button = DOWN^60
+        xii.    t12: mode = STOPWATCH,  button = DOWN^1440
+        xiii.   t13: mode = ALARM,      button = UP
+        xiv.    t14: mode = ALARM,      button = UP^60
+        xv.     t15: mode = ALARM,      button = UP^1440
+        xvi.    t16: mode = ALARM,      button = DOWN
+        xvii.   t17: mode = ALARM,      button = DOWN^60
+        xviii.  t18: mode = ALARM,      button = DOWN^1440
