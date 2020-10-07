@@ -60,6 +60,8 @@ Tạo hai trường hợp sử dụng cho tương tác với ATM.
 
 **Trạng thái kết thúc:** Tiền được rút ra từ tài khoản của khách hàng
 
+|
+|
 
 **Trường hợp:** xem số dư
 
