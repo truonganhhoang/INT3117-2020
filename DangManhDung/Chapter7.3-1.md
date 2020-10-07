@@ -16,7 +16,7 @@ Cho một phần của chương trình sau:
 
 (d) Có đường đi du-path nào mà liên quan đến tham số w từ nút 1 đến nút 7?
 
-* [2,4,5,7], [2,4,6,7], [3,4,5,7], [3,4,6,7]
+* Không có. Vì nút 2 và 3 chặn dè ở nút 1
 
 (e) Liệt kê mọi du-path cho tham số w và x
 
