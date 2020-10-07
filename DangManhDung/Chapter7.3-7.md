@@ -1,9 +1,10 @@
 Sử dụng phương thức printPrime()
 
-
+![image](https://user-images.githubusercontent.com/48431650/95310542-b9d8df00-08b6-11eb-9937-b58dcf875251.png)
 
 (a) Vẽ đồ thị luồng cho phương thức
 
+![image](https://user-images.githubusercontent.com/48431650/95310604-ccebaf00-08b6-11eb-9544-1778b2ac783c.png)
 
 
 (b) Xét ca kiểm thử *t1 = (n = 3)*, *t2 = (n = 5)*. Thiết lập một lỗi đơn giản mà t2 sẽ thường dễ tìm thấy hơn t1
