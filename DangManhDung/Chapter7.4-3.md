@@ -1,6 +1,6 @@
 Cho một phần của chương trình
 
-
+![image](https://user-images.githubusercontent.com/48431650/95308252-de7f8780-08b3-11eb-9d22-39d970c6580c.png)
 
 Và các kiểm thử đầu vào
 * t1 = f1 (0, 0)
@@ -11,7 +11,7 @@ Và các kiểm thử đầu vào
 
 (a) Vẽ đồ thị cho chương trình
 
-
+![image](https://user-images.githubusercontent.com/48431650/95308187-c90a5d80-08b3-11eb-9283-e0809fc26410.png)
 
 (b) Tìm đường đi tương ứng với mỗi kiểm thử
 * t1: [f1, f3, f5, f6]
