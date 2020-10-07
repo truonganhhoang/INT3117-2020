@@ -1,5 +1,8 @@
 Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
 
+![image](https://user-images.githubusercontent.com/48431650/95309884-e809ef00-08b5-11eb-9d38-f9dd48607760.png)
+![image](https://user-images.githubusercontent.com/48431650/95309962-01ab3680-08b6-11eb-8779-f49abc0855ff.png)
+
 (a) Vẽ đồ thị phân luồng
 
 
