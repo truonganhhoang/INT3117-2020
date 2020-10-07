@@ -6,19 +6,20 @@ Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
 
 (b) Liệt kê tất cả vị trí gọi
 
-        i.	Line 62, Watch::constructor()	 -> Time:constructor()
-        ii.	Line 63, Watch::constructor()	 -> Time:constructor()
-        iii.	Line 64, Watch::constructor()	 -> Time:constructor()
-        iv.	Line 69, Watch::toString()	 -> Time:toString()
-        v.	Line 70, Watch::toString()	 -> Time:toString()
-        vi.	Line 70, Watch::toString()	 -> Time:toString()
-        vii.	Line 82, Watch::doTransition()	 -> Time:changeTime()
-        viii.	Line 88, Watch::doTransition()	 -> Time:changeTime()
-        ix.	Line 94, Watch::doTransition()	 -> Time:changeTime()
+        i.      Line 62, Watch::constructor()    -> Time:constructor()
+        ii.     Line 63, Watch::constructor()    -> Time:constructor()
+        iii.    Line 64, Watch::constructor()    -> Time:constructor()
+        iv.     Line 69, Watch::toString()       -> Time:toString()
+        v.      Line 70, Watch::toString()       -> Time:toString()
+        vi.     Line 70, Watch::toString()       -> Time:toString()
+        vii.    Line 82, Watch::doTransition()   -> Time:changeTime()
+        viii.   Line 88, Watch::doTransition()   -> Time:changeTime()
+        ix.     Line 94, Watch::doTransition()   -> Time:changeTime()
 
 (c) Liệt kê mọi du-path phân cặp cho mỗi vị trí gọi
 
 * Vị trí *i, ii, iii* nằm trong phương thức khởi tạo **Watch**. Do *Time* không có phương thức khởi tạo chuẩn xác nên phương thức khởi tạo căn bản
+
 * Vị trí *iv, v, vi* :
 
         (Watch::toString(), watch, 69) ! (Time::toString(), instance, 55)
@@ -29,6 +30,7 @@ Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
         (Time::toString(), String, 55) ! (Watch::toString(), String, 71)
 
 * Vị trí *vii, viii, ix*
+
         Call site vii: (Watch::doTransition(), button, 74) ! (Time::changeTime(), 29)
         Call site viii: (Watch::doTransition(), button, 74) ! (Time::changeTime(), 29)
         Call site vix: (Watch::doTransition(), button, 74) ! (Time::changeTime(), 29)
@@ -52,6 +54,7 @@ Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
         (Time::changeTime(), instance, 48) ! (Watch::doTransition(), alarm, 94)
 
 (d) Tạo thông số kiểm thử để thỏa mãn bao hàm All-Coupling-Use cho **Watch**
+
         i.	t1: mode = TIME,	button = UP
         ii.	t2: mode = TIME,	button = UP, UP, ..., UP 60 times (we abbreviate this as UP 60)
         iii.	t3: mode = TIME,	button = UP^1440
