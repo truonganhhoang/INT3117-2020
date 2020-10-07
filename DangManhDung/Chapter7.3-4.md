@@ -34,6 +34,7 @@ du-path| t1| t2| t3| t4| t5| t6| t7| t8
 [10, 3, 11]| +| +| +| +| |+| +| +
 
 * Tất cả các kiểm thử trừ t5 đều thỏa mãn bao hàm toàn bộ defs
+
 (b) Tạo một bộ kiểm thử tối giản thỏa mãn bao hàm toàn bộ uses
 * {t1, t4, t5, t6}, {t1, t5, t6, t7}, {t1, t5}
 
