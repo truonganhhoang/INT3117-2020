@@ -59,7 +59,7 @@ Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
         ii.     t2: mode = TIME,        button = UP, UP, ..., UP 60 times
         iii.    t3: mode = TIME,        button = UP^1440
         iv.     t4: mode = TIME,        button = DOWN
-	v.      t5: mode = TIME,        button = DOWN^60
+        v.      t5: mode = TIME,        button = DOWN^60
         vi.     t6: mode = TIME,        button = DOWN^1440
         vii.    t7: mode = STOPWATCH,   button = UP
         viii.   t8: mode = STOPWATCH,   button = UP^60
