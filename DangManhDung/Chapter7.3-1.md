@@ -20,6 +20,7 @@ Cho một phần của chương trình sau:
 
 (e) Liệt kê mọi du-path cho tham số w và x
 
+ | |
 -|-|-
 i|[1,2]|w
 ii|[1,3]|w
