@@ -98,7 +98,7 @@ Cho lớp **BoundQueue2**
 
 (d) Vẽ để thể hiện các trạng thái tới được
 
-
+![image](https://user-images.githubusercontent.com/48431650/95308061-9c564600-08b3-11eb-832e-c8ffb29baf25.png)
 
 (f) Thiết lập một bộ kiểm thử đạt được bao hàm cạnh.
 
