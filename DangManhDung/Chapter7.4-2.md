@@ -1,32 +1,33 @@
 Cho lớp **Shutter**
+
 (a) Vẽ đồ thị phân luồng
 
 
 
 (b) Liệt kê tất cả vị trí gọi
 
-        i.	Line 46, main() -> stut()
-        ii.	Line 64, stut() -> isDelimit()
-        iii.	Line 66, stut() -> checkDupes()
-        iv.	Line 74, stut() -> checkDupes()
+        i.      Line 46, main() -> stut()
+        ii.     Line 64, stut() -> isDelimit()
+        iii.    Line 66, stut() -> checkDupes()
+        iv.     Line 74, stut() -> checkDupes()
 
 (c) Liệt kê mọi du-path phân cặp cho mỗi vị trí gọi
 
-        i.	(main(), curWord, 14)		 -> 	(stut(), curWord, 71) 			- line 46
-        ii.	(main(), inFile, 30)		 -> 	(stut(), inFile, 57) 			- line 46
-        iii.	(main(), inFile, 37)		 -> 	(stut(), inFile, 57) 			- line 46
-        iv.	(main(), inFile, 42)		 -> 	(stut(), inFile, 57) 			- line 46
-        v.	(stut(), c, 62)			 -> 	(isDelimit(), C, 102)	 		- line 64
-        vi.	(stut(), linecnt, 55)		 -> 	(checkDupes(), line, 88) 		- line 66
-        vii.	(stut(), linecnt, 75)		 -> 	(checkDupes(), line, 88) 		- line 66
-        viii.	(stut(), curWord, 71)		 -> 	(checkDupes(), curWord, 86) 		- line 66
-        ix.	(stut(), lastdelimit, 70)	 -> 	(checkDupes(), lastdelimit, 83) 	- line 66
-        x.	(checkDupes(), curWord, 94)	 -> 	(stut(), curWord, 71) 			- line 66
-        xi.	(stut(), linecnt, 55)		 -> 	(checkDupes(), line, 88) 		- line 74
-        xii.	(stut(), linecnt, 75)		 -> 	(checkDupes(), line, 88) 		- line 74
-        xiii.	(stut(), curWord, 71)		 -> 	(checkDupes(), curWord, 86) 		- line 74
-        xiv.	(stut(), lastdelimit, 70)	 -> 	(checkDupes(), lastdelimit, 83) 	- line 74
-        xv.	(checkDupes(), curWord, 94)	 -> 	(stut(), curWord, 71)		 	- line 74
+        i.      (main(), curWord, 14)            -> 	(stut(), curWord, 71) 			- line 46
+        ii.     (main(), inFile, 30)             -> 	(stut(), inFile, 57) 			- line 46
+        iii.    (main(), inFile, 37)             -> 	(stut(), inFile, 57) 			- line 46
+        iv.     (main(), inFile, 42)             -> 	(stut(), inFile, 57) 			- line 46
+        v.      (stut(), c, 62)                  -> 	(isDelimit(), C, 102)	 		- line 64
+        vi.     (stut(), linecnt, 55)            -> 	(checkDupes(), line, 88) 		- line 66
+        vii.    (stut(), linecnt, 75)            -> 	(checkDupes(), line, 88) 		- line 66
+        viii.   (stut(), curWord, 71)            -> 	(checkDupes(), curWord, 86) 		- line 66
+        ix.     (stut(), lastdelimit, 70)        -> 	(checkDupes(), lastdelimit, 83) 	- line 66
+        x.      (checkDupes(), curWord, 94)      -> 	(stut(), curWord, 71) 			- line 66
+        xi.     (stut(), linecnt, 55)            -> 	(checkDupes(), line, 88) 		- line 74
+        xii.    (stut(), linecnt, 75)            -> 	(checkDupes(), line, 88) 		- line 74
+        xiii.   (stut(), curWord, 71)            -> 	(checkDupes(), curWord, 86) 		- line 74
+        xiv.    (stut(), lastdelimit, 70)        -> 	(checkDupes(), lastdelimit, 83) 	- line 74
+        xv.     (checkDupes(), curWord, 94)      -> 	(stut(), curWord, 71)		 	- line 74
 
 (d) Tạo thông số kiểm thử để thỏa mãn bao hàm All-Coupling-Use cho **Shutter**
 * t1: "word"
