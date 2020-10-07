@@ -1,5 +1,8 @@
 Cho lớp **Shutter**
 
+![image](https://user-images.githubusercontent.com/48431650/95310130-3cad6a00-08b6-11eb-8a5a-7bfb00af1b86.png)
+![image](https://user-images.githubusercontent.com/48431650/95310265-69618180-08b6-11eb-94e5-4e50b8c87f04.png)
+
 (a) Vẽ đồ thị phân luồng
 
 
