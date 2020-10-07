@@ -17,6 +17,9 @@ t4|(ab, c, -1)
 t2|(ab, a, 0)
 
 (a) Tạo một bộ kiểm thử tối giản thỏa mãn bao hàm toàn bộ defs
+
+* Đường tour trực tiếp được tích bởi dấu +
+
 du-path| t1| t2| t3| t4| t5| t6| t7| t8
 -|-|-|-|-|-|-|-|-
 [2, 3, 4, 5, 6, 7, 9]| +| | | | | | |
@@ -29,3 +32,10 @@ du-path| t1| t2| t3| t4| t5| t6| t7| t8
 [10, 3, 4, 5, 6, 7, 8, 10]| | | | | | | | +
 [10, 3, 4, 10]| | | |+| | | |
 [10, 3, 11]| +| +| +| +| |+| +| +
+
+* Tất cả các kiểm thử trừ t5 đều thỏa mãn bao hàm toàn bộ defs
+(b) Tạo một bộ kiểm thử tối giản thỏa mãn bao hàm toàn bộ uses
+* {t1, t4, t5, t6}, {t1, t5, t6, t7}, {t1, t5}
+
+(c) Tạo một bộ kiểm thử tối giản thỏa mãn bao hàm toàn bộ đường đi du-path
+* {t1, t2, t3, t4, t5, t6, t7, t8}
