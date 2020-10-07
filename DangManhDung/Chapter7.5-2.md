@@ -1,6 +1,6 @@
 Cho phương thức FSM sau:
 
-
+![image](https://user-images.githubusercontent.com/48431650/95307673-23ef8500-08b3-11eb-8929-4d24d3c94a46.png)
 
 (a) Có bao nhiêu trạng thái?
 * 4 trạng thái: { A:(Wake, Low), B:(Wake, High), C:(Sleep, Low), D:(Sleep, High) }
