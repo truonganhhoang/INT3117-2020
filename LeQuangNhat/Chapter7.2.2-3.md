@@ -1,0 +1,3 @@
+#  Subsumption has a significant weakness. Suppose criterion ```Cstrong``` subsumes criterion ```Cweak``` and that test set ```Tstrong``` satisfies ```Cstrong``` and test set ```Tweak``` satisfies ```Cweak```. It is not necessarily the case that ```Tweak``` is a subset of ```Tstrong```. It is also not necessarily the case that ```Tstrong``` reveals a fault if ```Tweak``` reveals a fault. Explain these facts.
+
+Giả thuyết chỉ nói về ```Cstrong``` bao hàm ```Cweak```, chứ không đề cập gì đến vấn đề bộ kiểm thử ```Tstrong``` bao hàm ```Tweak```: chúng chỉ thuộc các tiêu chí ```Cstrong``` và ```Cweak``` thôi. Nên khi chọn ra các bộ kiểm thử thì trường hợp ```Tweak``` có thể có các ca kiểm thử mà phát hiện được lỗi trong mã nguồn mà ```Tstrong``` không có.
