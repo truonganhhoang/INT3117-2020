@@ -18,6 +18,6 @@ Các đường dẫn kiểm thử p1, p2, p3 đã cho không thỏa mãn độ b
 - Bao hàm theo cạnh: (1,2), (1,7), (2,3), (2,4), (3,2), (4,5), (4,6), (5,6), (6,1)
 - Bao hàm đường đi nguyên tố: [1,7], [2,3,2], [1,2,3,2], [5,6,1,7], [1,2,4,6,1], [2,4,6,1,7], [2,4,6,1,2], [1,2,4,5,6,1], [2,4,5,6,1,2], [2,4,5,6,1,7], [5,6,1,2,4,5]
 #### (f) List test paths from the given set that achieve Node Coverage but not Edge Coverage on the graph.
-Đường dẫn đã cho thỏa mãn: [1, 2, 3, 2, 4, 5, 6, 1, 7]
+Đường dẫn đã cho thỏa mãn: p3 = [1, 2, 3, 2, 4, 5, 6, 1, 7]
 #### (g) List test paths from the given set that achieve Edge Coverage but not Prime Path Coverage on the graph.
-Đường dẫn đã cho thỏa mãn: [1, 2, 3, 2, 4, 5, 6, 1, 2, 4, 6, 1, 7]
+Đường dẫn đã cho thỏa mãn: p1 = [1, 2, 4, 5, 6, 1, 7]
