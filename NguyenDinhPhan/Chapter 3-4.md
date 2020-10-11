@@ -2,11 +2,11 @@
 ## Delete the explicit throw of NullPointerException in the Min program (Figure 3.2). Verify that the JUnit test for a list with a single null element now fails.
 
 
-### Kết quả:
+## Kết quả:
 
 ![](images/Chapter%203-4.png)
 
-### File Min.java (từ website của sách):
+## File Min.java (từ website của sách):
 ``` java
 // Introduction to Software Testing
 // Authors: Paul Ammann & Jeff Offutt
@@ -51,7 +51,7 @@ public class Min
     }
 }
 ```
-### File MinTest.java (từ website của sách):
+## File MinTest.java (từ website của sách):
 ```java
 import static org.junit.Assert.*;
 import org.junit.*;
