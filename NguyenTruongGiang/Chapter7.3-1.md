@@ -1,4 +1,4 @@
-# Chapter 7 - Section 3 - Exercise 1
+# Chapter 7.3-1.
 
 ```Java
 w = x; // node 1
