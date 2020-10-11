@@ -2,7 +2,7 @@
 ![](Images/7.3-1.png)
 
 #### (a) Draw a control flow graph for this program fragment. Use the node numbers given above.
-![](Images/7.3-1.jpg)
+![](image/7.3-1.jpg)
 
 #### (b) Which nodes have defs for variable w?
 Các nút 1, 2, 3.
