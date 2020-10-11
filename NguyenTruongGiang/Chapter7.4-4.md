@@ -1,8 +1,8 @@
 
-###(a) Give all call sites using the line numbers given.
+### (a) Give all call sites using the line numbers given.
 We only have one callsite : trash() --> takeOut() (Line 12)
 
-###(b) Give all pairs of last-def s and first-uses.
+### (b) Give all pairs of last-def s and first-uses.
 - (trash(), m, 5) --> (takeOut(), a, 19) 
 - (trash(), m, 7) --> (takeOut(), a, 19) 
 - (trash(), n, 9) --> (takeOut(), b, 21)
@@ -12,7 +12,7 @@ We only have one callsite : trash() --> takeOut() (Line 12)
 - (takeOut(), e, 21) --> (trash(), o, 13) 
 - (takeOut(), e, 23) --> (trash(), o, 13) 
 
-###(c) Provide test inputs that satisfy all-coupling-uses (note that trash() only has one input).
+### (c) Provide test inputs that satisfy all-coupling-uses (note that trash() only has one input).
 - x = 0: satisfies 1, 6, 8 
 - x = 1: satisfies 2, 5, 7 
 - x = 6: satisfies 2, 3, 7 
