@@ -5,7 +5,7 @@ Cho lớp **Shutter**
 
 (a) Vẽ đồ thị phân luồng
 
-
+![image](https://user-images.githubusercontent.com/48431650/95317750-c877c400-08bf-11eb-87ed-facfa4302844.png)
 
 (b) Liệt kê tất cả vị trí gọi
 

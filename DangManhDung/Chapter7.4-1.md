@@ -5,7 +5,7 @@ Cho lớp **Watch** trong figure 7.38 và 7.39 trong Section 7.5
 
 (a) Vẽ đồ thị phân luồng
 
-
+![image](https://user-images.githubusercontent.com/48431650/95316394-f0662800-08bd-11eb-8b4b-10ebdc0916d5.png)
 
 (b) Liệt kê tất cả vị trí gọi
 
