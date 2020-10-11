@@ -7,7 +7,7 @@
 ### p3 = [1, 2, 3, 2, 4, 5, 6, 1, 7]
 
 (a) Draw the graph.
-![](Images/7.2.2-5.png)
+![](image/7.2.2-5.png)
 
 (b) List the test requirements for Edge-Pair Coverage.
 [1, 2, 3], [1, 2, 4], [2, 3, 2], [2, 4, 5], [2, 4, 6], [3, 2, 3], [3, 2, 4], [4, 5, 6], [4, 6, 1], [5, 6, 1], [6, 1, 2], [6, 1, 7]
