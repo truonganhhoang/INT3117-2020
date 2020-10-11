@@ -1,8 +1,8 @@
 ### Use the following program fragment for questions a–e below.
-![](Images/7.3-1.png)
+
 
 #### (a) Draw a control flow graph for this program fragment. Use the node numbers given above.
-![](image/7.3-1.jpg)
+![](image/7.3-1.png)
 
 #### (b) Which nodes have defs for variable w?
 Các nút 1, 2, 3.
