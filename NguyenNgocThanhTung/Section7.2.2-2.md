@@ -1,0 +1,1 @@
+**Mô tả bao hàm đường toàn bộ** (Complete Path Coverage): Bộ yêu cầu kiểm thử **TR** thỏa mãn bao hàm toàn bộ đường trong đồ thị **G** nếu với mọi đường đi *g* trong **G**, tồn tại một đường đi *p* trong *path(**T**)* mà *p* giống với *g*.
