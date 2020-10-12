@@ -1,0 +1,2 @@
+# Câu 3 
+Giả thuyết chỉ nói về C<sub>strong</sub> bao hàm C<sub>weak</sub>, chứ không đề cập đến bộ kiểm thử T<sub>strong</sub> bao hàm T<sub>weak</sub> (chúng chỉ thuộc các tiêu chí C<sub>strong</sub> và C<sub>weak</sub>).<br/> Nên khi chọn ra các bộ kiểm thử thì trường hợp T<sub>weak</sub> có thể có các ca kiểm thử mà phát hiện được lỗi trong mã nguồn mà T<sub>strong</sub> không có.
