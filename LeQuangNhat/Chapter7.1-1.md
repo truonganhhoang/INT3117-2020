@@ -1,0 +1,12 @@
+# Give the sets N, N0, Nf, and E for the graph in Figure 7.2.
+![](Images/Screenshot2020-10-06202631.png)
+
+Tất cả các điểm (Node - N): `(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)`
+
+Tất cả các điểm bắt đầu (N0): `(1, 2, 3)`
+
+Tất cả các điểm kết thúc (Nf): `(8, 9, 10)`
+
+Tất cả các cạnh đường đi (E):
+
+`(1, 4), (1, 5), (2, 5), (3, 6), (3, 7), (4, 8), (5, 8), (5, 9), (6, 2), (6, 10), (7, 10), (9, 6)`
