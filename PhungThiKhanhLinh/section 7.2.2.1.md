@@ -1,0 +1,1 @@
+Độ phủ cạnh: các điểm quyết định trongd dồ thị điều khiển của đơn vị kiểm thử đều được thực hiện ít nhất một lần cả hai nhánh đúng và sai.

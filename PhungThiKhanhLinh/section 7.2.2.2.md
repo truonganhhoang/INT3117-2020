@@ -1,0 +1,1 @@
+Độ bao phủ tất cả các đường đi (Compelete Path Coverage) đảm bảo tất cả các đường đi chạy qua chương trình đều được đi qua ít nhất 1 lần bởi 1 ca kiểm thử nào đó. Điều này rất khó để thực hiện vì số đường đi là hàm số mũ vối số nhánh, ngoài ra nhiều đường đi cũng không khả thi do tính chất của dữ liệu đầu vào.
