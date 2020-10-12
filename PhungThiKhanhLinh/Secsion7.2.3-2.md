@@ -1,0 +1,2 @@
+#### Exercise 3
+Có một số lượng không giới hạn trong số này. Đặc biệt, bất kỳ đường dẫn nào truy cập vòng lặp [2, 5, 9, 6] đều có thể được kéo dài vô thời hạn. Dưới đây em liệt kê một số đường dẫn thử nghiệm ngắn hơn bên dưới. [1, 4, 8], [1, 5, 8], [1, 5, 9], [1, 5, 9, 6, 2,5,9], [1, 5, 9, 6, 10 ], [2, 5, 9], [2, 5, 9, 6, 2,5,9], [2, 5, 9, 6, 10], [3, 6, 10], [3, 6 , 2, 5, 9], [3, 6,2, 5, 9, 6, 2,5,9], [3, 7, 10].
