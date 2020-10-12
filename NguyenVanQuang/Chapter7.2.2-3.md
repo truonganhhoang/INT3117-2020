@@ -1,0 +1,4 @@
+Subsumption has a significant weakness. Suppose criterion Cstrong subsumes criterion Cweak and that test set Tstrong satisfies Cstrong and test set Tweak satisfies Cweak . It is not necessarily the case that Tweak is a subset of Tstrong . It is also not necessarily the case that Tstrong reveals a fault if Tweak reveals a fault. Explain these facts.
+
+* Có thể có trường hợp các bộ kiểm thử trong Tweak phát hiện ra  lỗi nhưng Tstrong thì không phát hiện ra lỗi . 
+* Giải thích : Vì giả thiết cho biết Cstrong bao hàm Cweak, tập kiểm thử Tweak thỏa mãn Cweak, tập kiểm thử Tstrong thỏa mãn Cstrong và không nhắc gì đến quan hệ bao hàm giữa Tstrong và Tweak.
