@@ -1,0 +1,1 @@
+- Đầu vào của trường hợp kiểm tra có đường dẫn (test path) qua cạnh (2, 4): (a = 0, b = 1).
