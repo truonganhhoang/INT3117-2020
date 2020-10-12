@@ -1,5 +1,4 @@
-# 7. Reconsider the PrimeNumbers class from the previous exercise. Normally, this problem is
-solved with the Sieve of Eratosthenes. The change in algorithm changes the consequences of
+# 7. Reconsider the PrimeNumbers class from the previous exercise. Normally, this problem is solved with the Sieve of Eratosthenes. The change in algorithm changes the consequences of
 the fault. Specifically, false positives are now possible in addition to false negatives. Recode
 the algorithm to use the Sieve approach, but leave the fault. What is the first false positive,
 and how many “primes” must a test case generate before encountering it? What does this
