@@ -1,0 +1,3 @@
+Có rất nhiều trường hợp không thỏa mãn:
++ Không xuất phát từ nút ban đầu:  [5, 9, 5, 10] ,...
++ Không kết thúc tại nút cuối cùng:  [1, 5, 2, 6] ,..

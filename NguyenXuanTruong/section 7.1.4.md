@@ -1,0 +1,1 @@
+Từ hình 7.5 dễ dàng nhận thấy ca kiểm thử (a = 0, b = 1) thỏa mãn.
