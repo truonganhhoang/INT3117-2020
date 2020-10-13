@@ -17,27 +17,28 @@ Cho phương thức **checkIt()** sau:
 (c) Chạy T1 và T2
 * Code nằm trong "Chapter8.3-5 code/checkItRun.java"
 * Kết quả chạy chương trình:
-true true true
-checkIt(): 1: P is true
-checkItExpand(): 1: P is true
-true true false
-checkIt(): 1: P is true
-checkItExpand(): 1: P is true
-true false true
-checkIt(): 1: P is true
-checkItExpand(): 2: P is true
-true false false
-checkIt(): 3: P isn’t true
-checkItExpand(): 3: P isn’t true
-false true true
-checkIt(): 3: P isn’t true
-checkItExpand(): 4: P isn’t true
-false true false
-checkIt(): 3: P isn’t true
-checkItExpand(): 4: P isn’t true
-false false true
-checkIt(): 3: P isn’t true
-checkItExpand(): 4: P isn’t true
-false false false
-checkIt(): 3: P isn’t true
-checkItExpand(): 4: P isn’t true
+
+      true true true
+      checkIt(): 1: P is true
+      checkItExpand(): 1: P is true
+      true true false
+      checkIt(): 1: P is true
+      checkItExpand(): 1: P is true
+      true false true
+      checkIt(): 1: P is true
+      checkItExpand(): 2: P is true
+      true false false
+      checkIt(): 3: P isn’t true
+      checkItExpand(): 3: P isn’t true
+      false true true
+      checkIt(): 3: P isn’t true
+      checkItExpand(): 4: P isn’t true
+      false true false
+      checkIt(): 3: P isn’t true
+      checkItExpand(): 4: P isn’t true
+      false false true
+      checkIt(): 3: P isn’t true
+      checkItExpand(): 4: P isn’t true
+      false false false
+      checkIt(): 3: P isn’t true
+      checkItExpand(): 4: P isn’t true
