@@ -30,7 +30,7 @@ public class NumZero{
    }
 }
 ```
-* KIểm thử không có lỗi:
+* Kiểm thử không có lỗi:
 ```java
 public class NumZeroTest{
    @Test public void nonZeroFirstElement(){
