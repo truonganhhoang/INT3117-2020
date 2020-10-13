@@ -1,4 +1,4 @@
-#Câu 1: Tại sao các kiểm thử viên thực hiện kiểm thử tự động? Những hạn chế của kiểm thử tự động là gì?
+# Câu 1: Tại sao các kiểm thử viên thực hiện kiểm thử tự động? Những hạn chế của kiểm thử tự động là gì?
 Động lực của kiểm thử tự động: sự lặp lại. Chúng ta tự động hóa các ca kiểm thử vì ta cần thực hiện cùng một ca kiểm thư lặp đi lặp lại. Kiểm thử tự động có nhiều lợi ích như:
 - Giảm chi phí của việc kiểm thử
 - Giảm thiểu lỗi của con người
