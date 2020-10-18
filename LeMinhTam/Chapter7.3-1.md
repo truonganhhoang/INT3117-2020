@@ -1,7 +1,7 @@
 a. Vẽ đồ thị kiểm soát luồng điều kiến của bài sử dụng số nút cho sẵn
 
 Sơ đồ luồng trong bài:
-![graph](./imgs/Section7.3-1.png)
+<img src = "./imgs/Section7.3-1.png" width="400" height="400">
 
 b. Nút nào có def cho biến `w`?
 Nút `1,2,3` có defs cho `w`
