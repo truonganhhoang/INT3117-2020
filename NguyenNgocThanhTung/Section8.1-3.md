@@ -1,0 +1,1 @@
+Nhận định thoả mãn yêu cầu của đề bài là: ((``mouseType`` = ``wireless``) ^ ((``retail`` > ``100``) v (``stock`` > ``20``))) v (not(``mouseType`` = ``wireless``) ^ (``retail`` > ``50``))
