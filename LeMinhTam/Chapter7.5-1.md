@@ -19,6 +19,7 @@ d. Chỉ ra những trạng thái tiếp cận được bằng hình vẽ:
  Những trạng thái có thể tiếp cận được
 
 ![draw](./imgs/Section7.5-1.png)
+<img src="Section7.5-1.png" width="324" height="324">
 
 e. Thêm cạnh cho phương thức `enqueue()` và `dequeue()` ?
 
