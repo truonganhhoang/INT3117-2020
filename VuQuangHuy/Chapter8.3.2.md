@@ -1,0 +1,2 @@
+# 8.3.2.
+Nhìn chung thì bài này tương tự 8.3.1. Tuy nhiên ta phải đánh giá từng mệnh đề thành false để test có thể đầy đủ, vì một số mệnh đề có thể không được đánh giá nếu như một mệnh đề khác được đặt thành false (nếu b false thì c sẽ không quan trọng và không được đánh giá).
