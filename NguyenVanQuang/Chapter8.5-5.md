@@ -1,7 +1,7 @@
 ### Consider the following deterministic finite state machine:
 
 ### (a) Draw the finite state machine.
-![image](image/8.5.5.jpg)
+![image](image/8.5-5.jpg)
 
 ### (b) This machine does not specify which conditions cause a state to transition back to itself. However, these conditions can be derived from the existing conditions. Derive the conditions under which each state will transition back to itself.
 *Điều kiện để mỗi trạng thái quay trở về chính nó:<br>
