@@ -1,0 +1,1 @@
+GACC không bao gồm PC vì toán tử "hoặc" duy nhất có giá trị đúng (true) khi 2 mệnh đề có giá trị khác nhau, dẫn tới mỗi mệnh đề không thể tự quyết định giá trị của p.
