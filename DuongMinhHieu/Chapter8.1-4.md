@@ -116,6 +116,7 @@
 | 2 | T | F | F | F | T |
 | 3 | F | T | F | T | F |
 | 4 | F | F | F | F | F |
+
 (d) Các cặp thỏa mãn tiêu chuẩn GACC:
 * Với mệnh đề a: (1, 3).
 * Với mệnh đề b: (1, 2).
@@ -190,6 +191,7 @@
 | 2 | T | F | T | T | T |
 | 3 | F | T | T | T | T |
 | 4 | F | F | F | T | T |
+
 (d) Các cặp thỏa mãn tiêu chuẩn GACC:
 * Với mệnh đề a: (1, 3), (1, 4), (2, 3), (2, 4).
 * Với mệnh đề b: (1, 2), (1, 4), (3, 2), (3, 4).
