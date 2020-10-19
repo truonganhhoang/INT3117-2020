@@ -1,4 +1,4 @@
-# 1.
+# 1. Viết thêm các chức năng cộng trừ nhân chia cho hàm Calc, bổ sung các trường hợp kiểm thử tương ứng
 
 - Calc.java
 
