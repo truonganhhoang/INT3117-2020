@@ -1,0 +1,2 @@
+
+ Đánh giá chung, bài tập này tương tự như bài tập 8.3-1. Tuy nhiên, chúng ta phải đánh giá từng mệnh đề thành false để kiểm tra hoàn thành, vì một số mệnh đề có thể không được đánh giá nếu một mệnh đề khác được đặt thành false (nếu b sai thì c sẽ không quan trọng và không được đánh giá).
