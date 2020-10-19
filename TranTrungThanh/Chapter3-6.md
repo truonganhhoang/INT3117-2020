@@ -51,9 +51,9 @@ c) Ca kiểm thử bị lây nhiễm lỗi, nhưng không phát tán
 }
 ```
 d) Ca kiểm thử bị phát tán, nhưng không thể hiện được fault
-<p>
+
 Không có ca kiểm thử nào bị phát tán mà không thực hiện fault vì khi số nguyên tố 19 không được in ra thì tức là các số nguyên tố tiếp theo đã thể hiện fault.
-</p>
+
 e) Ca kiểm thử thể hiện fault
 ```
 @Test
