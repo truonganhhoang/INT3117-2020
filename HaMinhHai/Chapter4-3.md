@@ -1,2 +1,2 @@
-# 3. 
+# 3. Cài đặt mở rộng bài tập trước để máy chủ tích hợp liên tục có thể sử dụng các công cụ bổ sung như phạm vi bao phủ mã nguồn hoặc lý giải tĩnh.
 -   - CircleCI đã được tích hợp sẵn Code Coverage và Static Analysis Tool vào trong luồng công việc (Pipeline) của họ.

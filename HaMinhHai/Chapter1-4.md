@@ -1,5 +1,5 @@
-# 4.
-a) 
+# 4. Bài tập giúp việc kiểm thử trở nên nghiêm ngặt hơn
+a) Viết phương thức JAVA trả về một Vectơ của các đối tượng nằm trong hai đối số Vectơ
 ``` java
 public static Vector union (Vector a, Vector b)
 {
@@ -17,7 +17,7 @@ public static Vector union (Vector a, Vector b)
 }
 ```
 
-b) 
+b) Mô tả nhiều lỗi nhất có thể. (Lưu ý: Vector là một thư viện trong Java. Nếu bạn đang sử dụng một ngôn ngữ khác, hãy diễn giải Vector dưới dạng danh sách.)
 ```
 - Điều gì xảy ra nếu
 ?	input Vector là null?
@@ -31,7 +31,7 @@ b)
 
 c) Sẽ không gặp khó khăn khi tạo ra các tests bổ sung. Lưu ý: Các giải pháp khác để giải quyết ambiguities chắc chắn là có thể. Ví dụ, specifier có thể quyết định xử lý các input null. Hoặc, specifier có thể chặn các input null với 1 điều kiện tiên quyết.
 
-d)
+d) Viết lại phương pháp cho chính xác để làm rõ các lỗi và sự mơ hồ được xác định trước đó.
 ``` java
 public static Set union (Set a, Set b)
 // EFFECTS: if (a || b) = null => throw NullPointerException

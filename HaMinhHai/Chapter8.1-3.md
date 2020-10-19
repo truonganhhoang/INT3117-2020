@@ -1,4 +1,4 @@
-﻿# 3.
+﻿# 3. Viết vị ngữ (chỉ vị ngữ) thể hiện yêu cầu:
 Các mệnh đề bao gồm:
 
 * mouseType = wireless

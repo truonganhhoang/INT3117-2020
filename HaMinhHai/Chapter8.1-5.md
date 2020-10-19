@@ -1,4 +1,4 @@
-﻿# 5.
+﻿# 5. Chứng minh rằng GACC không là tập con PC khi độc quyền hoặc toán tử được sử dụng. Giả sử p = a ⊕ b.
 |             |     a     |    b    | p =  a ⊕ b  |
 | ___________ | _________ | _______ | ____________ |
 |      1      |     F     |    F    |       F      |
