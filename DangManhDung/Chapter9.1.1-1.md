@@ -1,0 +1,3 @@
+﻿Bao hàm nút và cạnh thường xuất hiện trong kiểm thử phần mềm. Hãy giải thích tại sao.
+
+* Thiết kế kiểm thử về cơ bản là khám phá không gian đầu vào. Nhiều biểu đồ là cách tự nhiên để mô tả hành vi của phần mềm và cách nó liên quan đến không gian đầu vào. Các thuật toán về cơ bản là về các hành động làm thay đổi các giá trị của biến, những hành động này có thể ánh xạ tới các nút và các cạnh theo nhiều cách khác nhau.
