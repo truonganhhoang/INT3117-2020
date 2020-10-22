@@ -21,6 +21,7 @@ subject = "aaa";
 pattern = "a";
 
 // Test 2
+```java
 subject = "a";
 pattern = "aaa";
 ```
@@ -28,3 +29,15 @@ pattern = "aaa";
 * (b) Bao phủ mệnh đề: {TFT, TTF, TTT, FTT}.
 ```java
 // Test 1
+subject = "aaa";
+pattern = "bb";
+// Test 2
+subject = "aaa";
+pattern = "ab";
+//Test 3
+subject = "aaa";
+pattern = "aa";
+//Test 4
+subject = "a";
+pattern = "aaa";
+```
