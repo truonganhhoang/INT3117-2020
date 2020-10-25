@@ -1,4 +1,5 @@
 a. Vẽ biểu đồ cho các yêu cầu gọi
+
 ![draw](./imgs/Section7.4-3.png)
 
 b. Các đường dẫn của đồ thị cho mỗi ca kiểm thử:
