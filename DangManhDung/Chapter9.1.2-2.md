@@ -1,0 +1,2 @@
+﻿Điểm đột biến liên quan như thế nào với bao hàm?
+* Chúng tương tự nhau, hay nói một cách khác, điểm đột biến là một sự tinh luyện của bao hàm. Mỗi đột biến là một yêu cầu kiểm thử, vậy điểm đột biến tính số lượng yêu cầu kiểm thử được thỏa mãn.

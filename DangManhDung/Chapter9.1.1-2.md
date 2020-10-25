@@ -1,0 +1,2 @@
+﻿Tương tự như đồ thị, có thể tạo ra vô tận số các kiểm thử từ ngữ pháp. Hãy giải thích tại sao.
+* Ngữ pháp "gọi hàm (*) gọi hàm" tương tự như một vòng lặp trong đồ thị, dẫn tới vô tận khả năng tạo kiểm thử từ ngữ pháp.
