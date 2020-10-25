@@ -1,0 +1,4 @@
+# How is the mutation score related to coverage from Chapter 5?
+
+# Trả lời:
+* Theo chương 5, điểm đột biến liên quan tới các bao phủ vì điểm đột biến của một tập kiểm thử có sự tương đương với mức độ mà tập kiểm thử đó phát hiện các lỗi thực (actual faults). Mà các thỏa mãn bao phủ và phát hiện lỗi sai có mối tương quan chặt chẽ. Hơn nữa, khi chuyển từ bao phủ nút sang bao phủ cạnh thì cũng phát hiện được nhiều lỗi hơn.

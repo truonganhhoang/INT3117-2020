@@ -1,0 +1,3 @@
+# Consider how often the idea of covering nodes and edges pops up in software testing. Write a short essay to explain this.
+
+# Người ta thường nghĩa đến các tiêu chuẩn bao phủ nút và bao phủ cạnh vì đây là 2 cách tiếp cận thông thường và đơn giản nhất, chi phí lại không cao. Tuy rằng đối với bao phủ nút, ta phải đi hết tất cả các biến (các nút) và bao phủ cạnh cũng thế, điều này là khó có thể nhưng lại là dễ dàng để nhận thức và đưa ra các ca kiểm thử. Chúng ta chỉ cần xét từng đường đi, từng trường hợp của chương trình mà không cần phải biến đổi nó sang máy trạng thái hay các mệnh đề, các vị từ hay các biến dị.
