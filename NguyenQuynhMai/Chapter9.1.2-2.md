@@ -1,0 +1,2 @@
+Điểm đột biến liên quan đến độ bao phủ:
+- Độ bao phủ kiểm thử là tỉ lệ (tính theo %) các trường hợp kiểm thử đã được thực hiện trên tổng số các trường hợp kiểm thử cần thiết cho ứng dụng. Nếu tỉ lệ này càng cao thì ứng dụng càng được test kỹ. Mà điểm đột biến là đo chất lượng của một bộ thử nghiệm phát hiện ra các lỗi được đưa vào trong các thể đột biến. Nó được định nghĩa là thương số giữa số thể đột biến chết và số thể đột biến không tương đương. Khi cho điểm đột biến, sẽ làm tăng độ bao phủ kiểm thử.
