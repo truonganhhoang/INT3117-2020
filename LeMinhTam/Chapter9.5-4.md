@@ -1,0 +1,12 @@
+- Phương thức `cal()` có 5 tham số:
+  - `public`
+  - `static`
+  - `int`
+  - `cal(int month1, int day1, int month2, int day2, int year)`
+- Một ngữ pháp khả thi cho phép các năm từ 0 đến 99999 là:
+    - C :: = `"cal (" M "," D "," M "," D "," Y ")" `
+    - M :: = 1 | 2 | ... | 12 
+    - D :: = 1 | 2 | ... | 31 
+    - Y :: = I | II | III | IIII | IIIII` 
+    - I :: = 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+

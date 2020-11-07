@@ -1,0 +1,2 @@
+- Không thể thỏa mãn `TSC` mà không thỏa mãn `PDC` cho ngữ pháp này.
+- Không có ca kiểm thử nào phù hợp

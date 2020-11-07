@@ -1,0 +1,3 @@
+**Xem xét tần suất ý tưởng về việc che các nút và các cạnh xuất hiện trong kiểm thử phần mềm. Viết một bài văn ngắn để giải thích điều này.** 
+
+Thiết kế thử nghiệm về cơ bản là khám phá không gian đầu vào. Rất nhiều đồ thị là những cách tự nhiên để mô tả hành vi phần mềm và cách nó liên quan đến không gian đầu vào. Các thuật toán về cơ bản là về các hành động từng bước thay đổi giá trị của các biến – những hành động này có thể ánh xạ một cách tự nhiên đến các nút và các cạnh theo nhiều cách khác nhau
